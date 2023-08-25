@@ -1,0 +1,2 @@
+Top-K SG	potential	Precision	Recall	F_score	Precision	Accuracy	changed_proportion
+50	0.998	0.10904	0.42401617669933117	0.1734703617677941	0.838	0.808	0.97

@@ -1,0 +1,3824 @@
+___________________________________________________________________________________________
+SENTENCE:harry also becomes the worthy possessor of the remaining deathly hallows : the invisibility cloak and the resurrection stone , hence becoming the true master of death .
+COMPLEX_WORD:possessor
+GOLD_SUBSTITUTES:5;1:owner;2:holder;3:buyer;3:master;3:teacher
+PREDICTED_RESULTS:
+	1) owner:28
+	2) master:42.0
+	3) heir:51.0
+	4) host:51.0
+	5) keeper:60
+	6) protector:68.0
+	7) holder:72
+	8) author:79.0
+	9) winner:80.0
+	10) leader:83.0
+
+___________________________________________________________________________________________
+SENTENCE:escapologists escape from handcuffs , straitjackets , cages , coffins , steel boxes , barrels , bags , burning buildings , fish-tanks and other perils , often in combination .
+COMPLEX_WORD:perils
+GOLD_SUBSTITUTES:24;1:dangers;2:danger;2:situations;2:hazards;2:fates;2:difficulties;2:risks;2:restraints;2:problems;2:troubles
+PREDICTED_RESULTS:
+	1) things:51.666666666666664
+	2) problems:55.666666666666664
+	3) risks:62
+	4) dangers:63
+	5) situations:71.66666666666667
+	6) types:74.66666666666667
+	7) danger:75.66666666666667
+	8) places:77.66666666666667
+	9) parts:81.66666666666667
+	10) disasters:84
+
+___________________________________________________________________________________________
+SENTENCE:the storm continued , crossing the outer banks of north carolina , and retained its strength until june 20 when it became extratropical near newfoundland .
+COMPLEX_WORD:retained
+GOLD_SUBSTITUTES:13;1:kept;2:regained
+PREDICTED_RESULTS:
+	1) held:21
+	2) kept:22
+	3) maintained:28
+	4) maintain:42
+	5) remained:42
+	6) sustained:45
+	7) stayed:56
+	8) continued:57
+	9) lost:64.0
+	10) maintains:67
+
+___________________________________________________________________________________________
+SENTENCE:the united states convened a 13-nation conference of the international opium commission in 1909 in shanghai , china in response to increasing criticism of the opium trade .
+COMPLEX_WORD:convened
+GOLD_SUBSTITUTES:3;1:assembled;2:gathered;3:started;4:opened;5:ordered;5:brought together
+PREDICTED_RESULTS:
+	1) held:19
+	2) summoned:25
+	3) called:28
+	4) led:28
+	5) gathered:29
+	6) assembled:32
+	7) organized:38
+	8) formed:44
+	9) scheduled:46
+	10) met:51
+
+___________________________________________________________________________________________
+SENTENCE:dodd simply retained his athletic director position , which he had acquired in 1950 .
+COMPLEX_WORD:acquired
+GOLD_SUBSTITUTES:11;1:received;2:obtained;3:achieved;4:taken;5:started;5:amassed
+PREDICTED_RESULTS:
+	1) received:36
+	2) gained:37
+	3) bought:42
+	4) earned:42
+	5) obtained:42
+	6) purchased:46
+	7) secured:49
+	8) inherited:50.666666666666664
+	9) assumed:57
+	10) transferred:58
+
+___________________________________________________________________________________________
+SENTENCE:radiometric dating is a technique used to date materials , usually based on a comparison between the observed abundance of a naturally occurring radioactive isotope and its decay products , using known decay rates .
+COMPLEX_WORD:abundance
+GOLD_SUBSTITUTES:18;1:amount;2:plenty;3:wealth;3:large amount;4:excess;4:plenitude;5:profusion;5:outpouring;5:a lot;5:portion;5:great amount;5:heap;5:availability;5:quantity
+PREDICTED_RESULTS:
+	1) presence:28.333333333333336
+	2) amount:36.333333333333336
+	3) value:50.333333333333336
+	4) existence:52.333333333333336
+	5) strength:55.333333333333336
+	6) concentration:56.333333333333336
+	7) quantity:58.333333333333336
+	8) absence:61.333333333333336
+	9) activity:65.33333333333333
+	10) population:70.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:bacterial contaminants are ubiquitous , and foods left unused too long will often acquire substantial amounts of bacterial colonies and become dangerous to eat , leading to food poisoning .
+COMPLEX_WORD:substantial
+GOLD_SUBSTITUTES:14;1:large;2:significant;3:big;4:a lot;5:heavy;5:huge;5:major;5:many;5:great;5:copious;5:extensive
+PREDICTED_RESULTS:
+	1) large:19
+	2) massive:26
+	3) significant:27
+	4) considerable:43
+	5) tremendous:47
+	6) vast:56
+	7) extensive:57
+	8) heavy:62.666666666666664
+	9) larger:63.666666666666664
+	10) enormous:69
+
+___________________________________________________________________________________________
+SENTENCE:tibooburra has an arid , desert climate with temperatures soaring above 40 celsius in summer , often reaching as high as 47 c .
+COMPLEX_WORD:arid
+GOLD_SUBSTITUTES:3;1:dry;2:barren;2:desolate;2:moistureless
+PREDICTED_RESULTS:
+	1) extreme:36.666666666666664
+	2) ancient:40.666666666666664
+	3) dry:49.666666666666664
+	4) isolated:56.666666666666664
+	5) open:61.666666666666664
+	6) exotic:63.666666666666664
+	7) active:64.66666666666667
+	8) desert:65.66666666666667
+	9) uncomfortable:67.66666666666667
+	10) harsh:69.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:hanna meandered around the southeastern bahamas , weakening to a tropical storm while also dumping heavy rain on already-devastated haiti .
+COMPLEX_WORD:meandered
+GOLD_SUBSTITUTES:1;1:wandered;2:walked;3:traveled;4:strolled;4:moved;5:blew;5:zigzagged;5:wondered;5:twisted;5:navigated;5:curved;5:went
+PREDICTED_RESULTS:
+	1) moved:27.0
+	2) drifted:51.0
+	3) traveled:52.0
+	4) passed:56.0
+	5) continued:61.0
+	6) ran:63.0
+	7) rolled:64.0
+	8) turned:64.0
+	9) wandered:66.0
+	10) travelled:69.0
+
+___________________________________________________________________________________________
+SENTENCE:das rheingold is the first of the four operas that comprise der ring des nibelungen , by richard wagner .
+COMPLEX_WORD:comprise
+GOLD_SUBSTITUTES:10;1:make up;2:contain;3:compose;4:agreed;4:cover;4:create;4:consist of
+PREDICTED_RESULTS:
+	1) include:31
+	2) contain:35
+	3) provide:36.0
+	4) form:37
+	5) make:55.0
+	6) collect:56.0
+	7) produce:59.0
+	8) become:64.0
+	9) require:66.0
+	10) create:68.0
+
+___________________________________________________________________________________________
+SENTENCE:published by tor books , it was released on august 15 , 1994 in hardcover , and in paperback on july 15 , 1997 .
+COMPLEX_WORD:released
+GOLD_SUBSTITUTES:7;1:sold;2:put out;3:delivered;3:distributed;4:issued;4:sent;4:published;5:provided;5:opened;5:initiated;5:available first;5:premiered;5:made public;5:let out;5:dispensed;5:let go;5:made available;5:dropped;5:dispersed;5:revealed;5:launched;5:able to be sold
+PREDICTED_RESULTS:
+	1) published:33
+	2) introduced:46
+	3) issued:48
+	4) written:50
+	5) announced:55
+	6) sold:56
+	7) available:58
+	8) found:63
+	9) launched:65
+	10) produced:70
+
+___________________________________________________________________________________________
+SENTENCE:by 1960 he had developed the short story into a screenplay , and envisaged it as containing a suitable role for monroe .
+COMPLEX_WORD:envisaged
+GOLD_SUBSTITUTES:13;1:imagined;2:saw;3:pictured;4:envisioned;5:anticipated;6:considered;6:conceived;6:predicted
+PREDICTED_RESULTS:
+	1) imagined:25
+	2) considered:37
+	3) intended:41
+	4) planned:47
+	5) proposed:48
+	6) suggested:48
+	7) arranged:55
+	8) expected:57
+	9) regarded:61
+	10) anticipated:65
+
+___________________________________________________________________________________________
+SENTENCE:with poor sales of the a340-200 , airbus decided to use the fuselage of the a340-200 with the wings and engines of the a330-300 .
+COMPLEX_WORD:fuselage
+GOLD_SUBSTITUTES:12;1:body;2:cabin;3:gas tank;3:tank;3:fuel tank;4:main parts;4:mass;4:trunk
+PREDICTED_RESULTS:
+	1) body:34.666666666666664
+	2) cabin:48.666666666666664
+	3) frame:53.666666666666664
+	4) wing:56.666666666666664
+	5) aircraft:62.666666666666664
+	6) cockpit:65.66666666666667
+	7) structure:67.66666666666667
+	8) hull:68.66666666666667
+	9) plane:68.66666666666667
+	10) cab:79.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the last event was held on june 11 , 2000 , not to be held again due to the acquisition of wcw by world wrestling federation .
+COMPLEX_WORD:acquisition
+GOLD_SUBSTITUTES:19;1:gain;2:gaining;2:buying;3:addition;3:ownership;4:receiving;4:obtaining;5:acquirement
+PREDICTED_RESULTS:
+	1) purchase:32
+	2) sale:35.333333333333336
+	3) takeover:44
+	4) ownership:59.333333333333336
+	5) merger:62.333333333333336
+	6) purchasing:63
+	7) invasion:75.33333333333333
+	8) administration:81.33333333333333
+	9) loss:81.33333333333333
+	10) investigation:83.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:kowal suggested the name and the iau endorsed it in 1975 .
+COMPLEX_WORD:endorsed
+GOLD_SUBSTITUTES:7;1:supported;2:approved;3:accepted;4:backed;4:okayed;4:authorized;5:favored;5:recommended;5:passed;5:adopted
+PREDICTED_RESULTS:
+	1) accepted:17
+	2) approved:17
+	3) adopted:25
+	4) supported:36
+	5) agreed:42
+	6) backed:42
+	7) signed:43
+	8) recognized:50
+	9) authorized:52
+	10) sponsored:52
+
+___________________________________________________________________________________________
+SENTENCE:dry air wrapping around the southern periphery of the cyclone eroded most of the deep convection by early on september 12 .
+COMPLEX_WORD:periphery
+GOLD_SUBSTITUTES:6;1:border;2:outside;2:outskirts;3:surroundings;3:circumference;3:edges;3:area
+PREDICTED_RESULTS:
+	1) edge:14
+	2) core:36.666666666666664
+	3) flank:40.666666666666664
+	4) portion:50.666666666666664
+	5) rim:52.666666666666664
+	6) fringe:53
+	7) edges:55.666666666666664
+	8) centre:59.666666666666664
+	9) border:61.666666666666664
+	10) quadrant:65.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:alfonso drops the marriage contract in front of the officers , and , when they read it , they become enraged .
+COMPLEX_WORD:enraged
+GOLD_SUBSTITUTES:20;1:angry;2:mad;2:angered;3:furious;4:upset;5:infuriated
+PREDICTED_RESULTS:
+	1) angry:9
+	2) furious:41
+	3) upset:45.333333333333336
+	4) excited:65.33333333333333
+	5) agitated:72.33333333333333
+	6) outraged:77.33333333333333
+	7) unhappy:77.33333333333333
+	8) alarmed:84.33333333333333
+	9) aroused:85.33333333333333
+	10) impressed:85.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:located on the river pedieos and situated almost in the center of the island , it is the seat of government as well as the main business center .
+COMPLEX_WORD:situated
+GOLD_SUBSTITUTES:6;1:located;2:placed;3:positioned;4:sitting;5:fixed;6:settles;6:based;6:at
+PREDICTED_RESULTS:
+	1) placed:25
+	2) located:31.666666666666664
+	3) found:45
+	4) built:52.666666666666664
+	5) based:56.666666666666664
+	6) standing:56.666666666666664
+	7) therefore:66.66666666666667
+	8) constructed:74.66666666666667
+	9) lying:75.66666666666667
+	10) lodged:76.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:it has now been determined that europa is a prograde rotator , but the exact direction in which its pole points remains ambiguous .
+COMPLEX_WORD:ambiguous
+GOLD_SUBSTITUTES:22;1:unclear;2:unknown;3:uncertain;4:vague;5:unsure;5:random;5:indeterminate;5:cloudy;5:confusing
+PREDICTED_RESULTS:
+	1) vague:27
+	2) uncertain:29
+	3) unclear:33
+	4) obscure:36
+	5) unknown:41.333333333333336
+	6) confused:55.333333333333336
+	7) dubious:62
+	8) controversial:66.33333333333333
+	9) unpredictable:67.33333333333333
+	10) cryptic:70.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:the bishops ceded the oversticht to the emperor charles v in 1528 , who styled himself `` lord of overijssel '' , thereby giving the province its modern name .
+COMPLEX_WORD:ceded
+GOLD_SUBSTITUTES:2;1:gave;2:surrendered;3:gave up;4:yielded;5:transfer;5:detached;5:abandoned;5:handed over;5:allowed
+PREDICTED_RESULTS:
+	1) sold:21
+	2) transferred:27
+	3) surrendered:31
+	4) granted:32
+	5) lost:32.666666666666664
+	6) gave:40
+	7) passed:51
+	8) returned:52.666666666666664
+	9) donated:54
+	10) resigned:57
+
+___________________________________________________________________________________________
+SENTENCE:many parts of odessa were damaged during its siege and recapture on 10 april 1944 , when the city was finally liberated by the red army .
+COMPLEX_WORD:siege
+GOLD_SUBSTITUTES:8;1:capture;1:blockade;2:battle;3:surrounding;3:takeover;3:invasion;4:blockage;4:fighting;4:barricade;4:holding;4:conquer;4:hold
+PREDICTED_RESULTS:
+	1) attack:44.0
+	2) blockade:63
+	3) assault:65.0
+	4) battle:66.0
+	5) conquest:74.0
+	6) rescue:74.0
+	7) defense:78.0
+	8) garrison:78.0
+	9) defence:81.0
+	10) escape:81.0
+
+___________________________________________________________________________________________
+SENTENCE:the city was first founded by the british in 1827 , who leased the island from spain during the colonial period .
+COMPLEX_WORD:leased
+GOLD_SUBSTITUTES:12;1:rented;2:borrowed;2:loaned;3:secured;3:let;3:gave
+PREDICTED_RESULTS:
+	1) rented:30
+	2) rent:46
+	3) occupied:47.333333333333336
+	4) purchased:50.333333333333336
+	5) acquired:52.333333333333336
+	6) bought:55.333333333333336
+	7) took:57
+	8) borrowed:59.333333333333336
+	9) secured:62.333333333333336
+	10) seized:66.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:in reference to the landscape , bush describes a wooded area , intermediate between a shrubland and a forest , generally of dry and nitrogen-poor soil , mostly grassless , thin to thick woody shrubs and bushes , under a sparse canapy of eucalypts .
+COMPLEX_WORD:sparse
+GOLD_SUBSTITUTES:40;1:limited;2:few;2:scattered;2:skimpy;3:bare;4:scant;4:little;4:slim
+PREDICTED_RESULTS:
+	1) thick:43.333333333333336
+	2) heavy:47.333333333333336
+	3) thin:49.333333333333336
+	4) scattered:55
+	5) dense:55.333333333333336
+	6) small:65.33333333333333
+	7) loose:66.33333333333333
+	8) scarce:67
+	9) low:70.33333333333333
+	10) tight:78.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:they locate food by smell , using sensors in the tip of their snout , and regularly feast on ants and termites .
+COMPLEX_WORD:snout
+GOLD_SUBSTITUTES:13;1:nose
+PREDICTED_RESULTS:
+	1) nose:12
+	2) tail:41.333333333333336
+	3) head:43.333333333333336
+	4) noses:55.333333333333336
+	5) skull:57.333333333333336
+	6) beak:60.333333333333336
+	7) mouth:60.333333333333336
+	8) chin:63.333333333333336
+	9) tails:70.33333333333333
+	10) forehead:72.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:at present it is formed by the aa , which descends from the rigi and enters the southern extremity of the lake .
+COMPLEX_WORD:extremity
+GOLD_SUBSTITUTES:18;1:border;2:boundary;2:tip;3:point;3:portion;3:farthest;3:area;3:section;3:leg;3:outside;3:arm;3:depth;3:limb;3:sides
+PREDICTED_RESULTS:
+	1) end:21
+	2) side:36.0
+	3) arm:39.0
+	4) part:49.0
+	5) edge:54.0
+	6) area:67.0
+	7) tip:72
+	8) shore:74.0
+	9) point:77.0
+	10) leg:81.0
+
+___________________________________________________________________________________________
+SENTENCE:specialized english operates in the civil society sector , and the developers aspire to make programs for a variety of public service purposes , subject to resources being available .
+COMPLEX_WORD:aspire
+GOLD_SUBSTITUTES:12;1:try;1:dream;2:aim;2:want;2:strive;3:seek;4:hopes;4:crave;4:intend
+PREDICTED_RESULTS:
+	1) want:45
+	2) aim:60
+	3) are:60.666666666666664
+	4) continue:61.666666666666664
+	5) seem:64.66666666666667
+	6) have:65.66666666666667
+	7) expect:72.66666666666667
+	8) seek:73
+	9) exist:79.66666666666667
+	10) ask:80.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:this period spanned the years from 1278 through 1288 .
+COMPLEX_WORD:spanned
+GOLD_SUBSTITUTES:2;1:covered;2:lasted;3:extended;3:ranged;4:stretched over;4:was between;4:involved;4:lasted from;4:connected;4:bridged
+PREDICTED_RESULTS:
+	1) covered:16
+	2) lasted:28
+	3) crossed:38
+	4) across:43.333333333333336
+	5) stretched:44.333333333333336
+	6) reached:52.333333333333336
+	7) embraced:58
+	8) started:61.333333333333336
+	9) dominated:64.33333333333333
+	10) defined:68.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:realising that the gang could not elude the police forever , moondyne joe formulated a plan to escape the colony by traveling overland to the colony of south australia .
+COMPLEX_WORD:elude
+GOLD_SUBSTITUTES:6;1:avoid;2:hide from;2:evade;3:dodge;3:run from;4:trick;4:puzzle;4:outrun;4:lose
+PREDICTED_RESULTS:
+	1) escape:20
+	2) avoid:30
+	3) beat:66.33333333333333
+	4) dodge:69.33333333333333
+	5) catch:70.33333333333333
+	6) chase:71.33333333333333
+	7) ignore:74.33333333333333
+	8) fool:75.33333333333333
+	9) flee:82.33333333333333
+	10) escaped:83.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:southeastern oklahoma , also known by its official tourism designation , kiamichi country , encompasses the southeastern quarter of the state of oklahoma .
+COMPLEX_WORD:encompasses
+GOLD_SUBSTITUTES:14;1:surrounds;2:makes up;3:circles;3:encircles;3:spans;3:fills;3:occupies;3:forms;3:is filled by;3:envelopes;3:takes up
+PREDICTED_RESULTS:
+	1) covers:17
+	2) includes:17
+	3) represents:24
+	4) contains:25
+	5) is:26
+	6) constitutes:41
+	7) involves:41
+	8) addresses:46
+	9) concerns:47
+	10) describes:47
+
+___________________________________________________________________________________________
+SENTENCE:in 2001 , unesco inscribed the 2,750-year-old city on the world heritage list as samarkand - crossroads of cultures .
+COMPLEX_WORD:inscribed
+GOLD_SUBSTITUTES:4;1:wrote;2:registered;3:named;3:etched;4:put;4:carved;4:listed;5:dubbed;5:written;5:entered;5:designated;5:labeled
+PREDICTED_RESULTS:
+	1) placed:18
+	2) listed:34
+	3) included:40
+	4) entered:51
+	5) assigned:52
+	6) identified:53.333333333333336
+	7) designated:58.333333333333336
+	8) added:60
+	9) named:60.333333333333336
+	10) marked:65
+
+___________________________________________________________________________________________
+SENTENCE:to enjoy qin songs , one must learn to become accustomed to the eccentric style some players may sing their songs to , like in the case of zha fuxi .
+COMPLEX_WORD:eccentric
+GOLD_SUBSTITUTES:13;1:odd;2:unique;2:strange;3:weird;3:crazy;3:bizarre;3:fancy;3:uncommon;4:quirky;4:abnormal;4:wacky;4:varying
+PREDICTED_RESULTS:
+	1) unusual:30.0
+	2) odd:49.0
+	3) bizarre:52.0
+	4) strange:58.0
+	5) weird:66.0
+	6) artistic:68.0
+	7) crazy:71.0
+	8) extraordinary:73.0
+	9) outrageous:75.0
+	10) original:79.0
+
+___________________________________________________________________________________________
+SENTENCE:as a result of this acquisition and the legal dispute with hearst corporation , mandrakesoft announced that the new company name would be mandriva , and that mandriva linux would be the new name covering products .
+COMPLEX_WORD:dispute
+GOLD_SUBSTITUTES:9;1:argument;2:disagreement;3:battle;3:debate;3:conflict;4:complaint;4:differences;4:confrontation;4:problem;4:issue;4:trouble;4:gain
+PREDICTED_RESULTS:
+	1) conflict:41
+	2) battle:48.0
+	3) fight:49.0
+	4) argument:61
+	5) issue:65.0
+	6) matter:68.0
+	7) debate:70
+	8) trouble:72.0
+	9) controversy:73
+	10) relationship:74.0
+
+___________________________________________________________________________________________
+SENTENCE:he was born at plessiel , a hamlet of drucat near abbeville , to a long-established family of picardy , the great-nephew of the painter eustache le sueur .
+COMPLEX_WORD:hamlet
+GOLD_SUBSTITUTES:7;1:village;2:town;3:community;4:suburb;5:division;5:neighborhood;5:small town;5:district;5:small village
+PREDICTED_RESULTS:
+	1) village:11
+	2) town:43.333333333333336
+	3) part:48.333333333333336
+	4) place:49.333333333333336
+	5) parish:60.333333333333336
+	6) neighborhood:66.33333333333333
+	7) community:67.33333333333333
+	8) settlement:67.33333333333333
+	9) district:68.33333333333333
+	10) neighbourhood:71.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:their quick acceleration makes them suitable for services with short intervals between stations .
+COMPLEX_WORD:suitable
+GOLD_SUBSTITUTES:5;1:appropriate;2:acceptable;3:useful;4:okay;5:fitting;6:usable;6:ideal;6:fit;7:perfect;7:convenient;7:applicable;7:excellent
+PREDICTED_RESULTS:
+	1) appropriate:24
+	2) useful:31
+	3) convenient:48
+	4) ideal:54
+	5) necessary:56.0
+	6) fit:59
+	7) sufficient:61
+	8) attractive:62.0
+	9) perfect:62.0
+	10) relevant:63
+
+___________________________________________________________________________________________
+SENTENCE:aung san suu kyi returned to burma in 1988 to take care of her ailing mother .
+COMPLEX_WORD:ailing
+GOLD_SUBSTITUTES:14;1:sick;2:sickly;3:suffering;4:sickening
+PREDICTED_RESULTS:
+	1) dying:19
+	2) sick:26.333333333333336
+	3) ill:46.333333333333336
+	4) elderly:56.333333333333336
+	5) injured:60.333333333333336
+	6) old:60.333333333333336
+	7) struggling:64
+	8) aging:67.33333333333333
+	9) poor:70.33333333333333
+	10) failing:72
+
+___________________________________________________________________________________________
+SENTENCE:port arthur was also the destination for juvenile convicts , receiving many boys , some as young as nine arrested for stealing toys .
+COMPLEX_WORD:juvenile
+GOLD_SUBSTITUTES:7;1:child;2:underage;3:younger;3:adolescent;4:youth;4:under-age;4:childish;4:children;4:kid
+PREDICTED_RESULTS:
+	1) young:40.0
+	2) youth:41
+	3) male:44.0
+	4) child:47.0
+	5) female:52.0
+	6) teenage:52.0
+	7) adult:58.0
+	8) criminal:60.0
+	9) adolescent:63.0
+	10) youthful:77.0
+
+___________________________________________________________________________________________
+SENTENCE:the international re-formed in 1923 , and was reconstituted again , in its present form , after world war ii .
+COMPLEX_WORD:reconstituted
+GOLD_SUBSTITUTES:8;1:rebuilt;2:remade;3:reformed;4:recreated;4:restored;5:reorganized;5:reestablished;5:restarted;6:revived;6:renewed;6:rewritten;6:redeveloped;6:recomposed;6:reconstructed;6:redone;6:allowed;6:copied;6:fixed;6:reinstated;6:reworked
+PREDICTED_RESULTS:
+	1) restored:23
+	2) formed:30
+	3) reformed:34
+	4) created:34.666666666666664
+	5) established:37
+	6) rebuilt:50
+	7) founded:51
+	8) reinstated:51
+	9) dissolved:51.666666666666664
+	10) assembled:52.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:the amazon basin is the part of south america drained by the amazon river and its tributaries .
+COMPLEX_WORD:tributaries
+GOLD_SUBSTITUTES:16;1:branches;2:smaller rivers;3:channels;4:riverless;4:offshoots;4:children creeks;4:adjacent;4:brooks
+PREDICTED_RESULTS:
+	1) rivers:30
+	2) sources:34.0
+	3) branches:38.0
+	4) channels:43.0
+	5) streams:44
+	6) waters:47.0
+	7) mouths:52.0
+	8) satellites:53.0
+	9) sons:55.0
+	10) courses:56.0
+
+___________________________________________________________________________________________
+SENTENCE:typically , the biggest difference between film and stage musicals is the use of lavish background scenery which would be impractical in a theater .
+COMPLEX_WORD:lavish
+GOLD_SUBSTITUTES:14;1:fancy;2:extravagant;2:rich;3:expensive;4:plentiful;4:elaborate;4:generous;4:impressive;5:detailed;5:garish;5:flamboyant;5:excessive;5:splendid;5:gaudy;5:big;5:lush;5:luxurious;5:complex;5:complicated;5:lively;5:pretty;5:extensive;5:nice
+PREDICTED_RESULTS:
+	1) large:42.333333333333336
+	2) expensive:44.333333333333336
+	3) rich:45.333333333333336
+	4) elaborate:48.333333333333336
+	5) extravagant:55.333333333333336
+	6) huge:64.33333333333333
+	7) spectacular:68.33333333333333
+	8) massive:69.33333333333333
+	9) luxurious:71
+	10) enormous:74.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:following the hassles ' demise in 1969 , he formed the duo attila with hassles drummer jon small .
+COMPLEX_WORD:demise
+GOLD_SUBSTITUTES:4;1:death;2:breakup;3:downfall;4:decline;4:ending;4:ended;4:destruction;4:crumble
+PREDICTED_RESULTS:
+	1) death:16
+	2) collapse:27
+	3) failure:45.333333333333336
+	4) downfall:47
+	5) breakup:48.333333333333336
+	6) defeat:52.333333333333336
+	7) departure:53.333333333333336
+	8) destruction:54.333333333333336
+	9) decline:57
+	10) fate:59.333333333333336
+
+___________________________________________________________________________________________
+SENTENCE:the first amniotes , such as casineria , resembled small lizards and evolved from amphibian reptiliomorphs about 340 million years ago .
+COMPLEX_WORD:resembled
+GOLD_SUBSTITUTES:8;1:looked like;2:mirrored;3:matched;4:match;5:mimicked;5:appear like;5:emulated;5:seemed like;5:doubled;5:were like;5:duplicate;5:echoed;5:mirror;5:matching
+PREDICTED_RESULTS:
+	1) were:41.333333333333336
+	2) looked:43
+	3) appeared:48
+	4) like:50.333333333333336
+	5) called:51.333333333333336
+	6) became:55.333333333333336
+	7) wore:60.333333333333336
+	8) considered:63.333333333333336
+	9) contained:66.33333333333333
+	10) seemed:69
+
+___________________________________________________________________________________________
+SENTENCE:in 1999 , a world tamil confederation was established to protect and foster tamil culture and further a sense of togetherness amongst tamils in different countries .
+COMPLEX_WORD:foster
+GOLD_SUBSTITUTES:12;1:support;2:promote;3:nurture;3:grow;4:encourage;5:cultivate;5:help;6:advance;6:protect;6:uphold;6:started;6:adopt;6:serve;6:previous
+PREDICTED_RESULTS:
+	1) promote:28
+	2) encourage:35
+	3) develop:39.333333333333336
+	4) support:40
+	5) maintain:51.333333333333336
+	6) create:55.333333333333336
+	7) strengthen:58
+	8) enhance:62
+	9) stimulate:63
+	10) establish:68.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:historically , in the warm mediterranean and middle eastern climates , the courtyard served to accommodate the large number of worshippers during friday prayers .
+COMPLEX_WORD:accommodate
+GOLD_SUBSTITUTES:15;1:hold;2:fit;3:support;3:accept;4:holds;4:shelter;4:gather;4:serve;4:contain;4:lodge;4:provide for
+PREDICTED_RESULTS:
+	1) handle:39
+	2) serve:40.333333333333336
+	3) support:41.333333333333336
+	4) host:50
+	5) sustain:59.333333333333336
+	6) satisfy:67
+	7) receive:67.33333333333333
+	8) permit:68.33333333333333
+	9) hold:70.33333333333333
+	10) fit:77.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:john mccain polled 62.5 % in the 2008 presidential election while 70.9 % of utahns opted for george w. bush in 2004 .
+COMPLEX_WORD:opted
+GOLD_SUBSTITUTES:15;1:voted;2:chose;3:went;4:choose;5:elected;5:selected;5:hoped
+PREDICTED_RESULTS:
+	1) decided:29
+	2) wished:38
+	3) voted:44
+	4) chose:51.666666666666664
+	5) worked:52.666666666666664
+	6) volunteered:58.666666666666664
+	7) left:59.666666666666664
+	8) went:63.666666666666664
+	9) chosen:64
+	10) picked:67
+
+___________________________________________________________________________________________
+SENTENCE:throughout most of the film , his only true friend , aside from his mother , is the mouse , timothy - a relationship parodying the stereotypical animosity between mice and elephants .
+COMPLEX_WORD:animosity
+GOLD_SUBSTITUTES:27;1:hatred;2:dislike;3:tension;4:hostility;5:unfriendliness;6:enmity;6:bitterness;6:fighting;6:anger;6:problem;6:difference;6:conflict
+PREDICTED_RESULTS:
+	1) relationship:49.333333333333336
+	2) hostility:53
+	3) friendship:56.333333333333336
+	4) conflict:62.333333333333336
+	5) affection:64.33333333333333
+	6) hatred:65
+	7) jealousy:65.33333333333333
+	8) anger:67.33333333333333
+	9) rivalry:68.33333333333333
+	10) passion:76.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:the band is known for its large line-up , which consists of nine members ; including a vocalist , two guitarists , a bassist , two percussionists in addition to a primary drummer , a sampler , and a turntablist .
+COMPLEX_WORD:vocalist
+GOLD_SUBSTITUTES:17;1:singer
+PREDICTED_RESULTS:
+	1) singer:21.0
+	2) drummer:33.0
+	3) dancer:47.0
+	4) producer:55.0
+	5) narrator:56.0
+	6) soprano:57.0
+	7) pianist:58.0
+	8) rapper:58.0
+	9) poet:61.0
+	10) composer:62.0
+
+___________________________________________________________________________________________
+SENTENCE:digital signatures are equivalent to traditional handwritten signatures in many respects ; properly implemented digital signatures are more difficult to forge than the handwritten type .
+COMPLEX_WORD:forge
+GOLD_SUBSTITUTES:20;1:fake;2:copy;3:create;4:duplicate;5:recreate;5:falsify
+PREDICTED_RESULTS:
+	1) create:50
+	2) find:55.33333333333333
+	3) break:60.33333333333333
+	4) secure:65.33333333333333
+	5) make:66.33333333333333
+	6) produce:72.33333333333333
+	7) fake:76.33333333333333
+	8) achieve:78.33333333333333
+	9) verify:80.33333333333333
+	10) change:81.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:triton was revealed to have remarkable active geysers and polar caps .
+COMPLEX_WORD:remarkable
+GOLD_SUBSTITUTES:5;1:amazing;2:incredible;3:great;3:impressive;3:awesome;4:interesting;5:real;5:huge;5:noteworthy;5:exceptional;5:notably;5:beautiful;5:wonderful;5:significant;5:super
+PREDICTED_RESULTS:
+	1) strange:55
+	2) unusual:58.333333333333336
+	3) extraordinary:60
+	4) wonderful:63
+	5) very:64.33333333333333
+	6) amazing:66
+	7) great:68
+	8) impressive:70
+	9) incredible:73
+	10) large:83.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:polar bear fur consists of a layer of dense underfur and an outer layer of guard hairs , which appear white to tan but are actually transparent .
+COMPLEX_WORD:transparent
+GOLD_SUBSTITUTES:26;1:see through;2:translucent;2:colorless
+PREDICTED_RESULTS:
+	1) clear:28
+	2) dark:38.666666666666664
+	3) black:46.666666666666664
+	4) white:46.666666666666664
+	5) yellow:50.666666666666664
+	6) blue:51.666666666666664
+	7) glass:58.666666666666664
+	8) invisible:60.666666666666664
+	9) solid:65.66666666666667
+	10) light:66.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the most common reason for erecting a khachkar was for votive reasons - for the salvation of the soul of either a living or a deceased person .
+COMPLEX_WORD:deceased
+GOLD_SUBSTITUTES:25;1:dead;2:building
+PREDICTED_RESULTS:
+	1) dead:5
+	2) dying:35.333333333333336
+	3) died:41.333333333333336
+	4) murdered:47.333333333333336
+	5) departed:48
+	6) death:52.333333333333336
+	7) fallen:61.333333333333336
+	8) former:70.33333333333333
+	9) killed:73.33333333333333
+	10) living:75.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:scene 2 : the doctor rushes by the captain in the street , who urges him to slow down .
+COMPLEX_WORD:urges
+GOLD_SUBSTITUTES:14;1:tells;2:asks;3:begs;4:encourages;5:wants;5:suggests;6:asked;7:presses;7:demands;7:suggest;7:persuades;7:provokes;7:desired;7:encourage;7:spurs
+PREDICTED_RESULTS:
+	1) tells:16
+	2) asks:28
+	3) forces:31
+	4) wants:36
+	5) demands:45
+	6) orders:56.666666666666664
+	7) insists:60
+	8) helps:62
+	9) leads:62
+	10) says:62
+
+___________________________________________________________________________________________
+SENTENCE:the revival of lute in the 20th century revitalized the interest of composers in the instruments of the lute family .
+COMPLEX_WORD:revival
+GOLD_SUBSTITUTES:1;1:rebirth;2:return;3:comeback;4:renewal;5:awakening;5:recovery;5:restart;6:reuse;6:comback;6:reemergence;6:reintroduction;6:reformation;6:remake;6:coming back;6:restoration
+PREDICTED_RESULTS:
+	1) recovery:43
+	2) return:43.0
+	3) development:44.0
+	4) renaissance:45
+	5) promotion:51.0
+	6) rise:51.0
+	7) rebirth:53
+	8) resurrection:59
+	9) comeback:64.0
+	10) reunion:69.0
+
+___________________________________________________________________________________________
+SENTENCE:lancelot de carles called her `` beautiful with an elegant figure '' , and a venetian in paris in 1528 also reported that she was said to be beautiful .
+COMPLEX_WORD:reported
+GOLD_SUBSTITUTES:21;1:wrote;2:noted;2:told;3:declared;3:indicated
+PREDICTED_RESULTS:
+	1) confirmed:36
+	2) noted:39
+	3) claimed:43
+	4) said:44
+	5) described:49
+	6) believed:51
+	7) told:53
+	8) recorded:56.333333333333336
+	9) observed:59
+	10) stated:60
+
+___________________________________________________________________________________________
+SENTENCE:he is notable as a performer of australian traditional folk songs in an authentic style .
+COMPLEX_WORD:performer
+GOLD_SUBSTITUTES:5;1:singer;2:entertainer;3:musician;4:player;5:actor;6:worker
+PREDICTED_RESULTS:
+	1) singer:28.666666666666664
+	2) producer:41.666666666666664
+	3) player:42.666666666666664
+	4) student:49.666666666666664
+	5) musician:51.666666666666664
+	6) artist:52
+	7) writer:53.666666666666664
+	8) speaker:62.666666666666664
+	9) dancer:67.66666666666667
+	10) entertainer:73
+
+___________________________________________________________________________________________
+SENTENCE:the false gharial , also known as the malayan gharial , false gavial , or tomistoma is a fresh-water reptile resembling a crocodile with a very thin and elongated snout , which is thicker than the gharial .
+COMPLEX_WORD:elongated
+GOLD_SUBSTITUTES:28;1:long;2:extended;3:lengthened;3:lengthy;3:longer
+PREDICTED_RESULTS:
+	1) extended:27.666666666666664
+	2) long:28.666666666666664
+	3) oval:32.666666666666664
+	4) elegant:50.666666666666664
+	5) elevated:50.666666666666664
+	6) erect:53.666666666666664
+	7) shaped:53.666666666666664
+	8) developed:54.666666666666664
+	9) distorted:55.666666666666664
+	10) enlarged:55.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:he held several senior positions in the royal flying corps during world war i , serving as the commander of royal flying corps in france from 1915 to 1917 .
+COMPLEX_WORD:senior
+GOLD_SUBSTITUTES:3;1:older;2:high-level;2:upper;2:important;2:advanced;3:advance;3:superior;3:big;3:veteran;3:chief;3:top-level;3:leader;3:principal
+PREDICTED_RESULTS:
+	1) high:58
+	2) prominent:60
+	3) junior:60.666666666666664
+	4) top:63
+	5) major:64.66666666666667
+	6) general:65.66666666666667
+	7) chief:68.66666666666667
+	8) commander:68.66666666666667
+	9) leadership:72.66666666666667
+	10) command:81.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the hush sound is currently on hiatus .
+COMPLEX_WORD:hiatus
+GOLD_SUBSTITUTES:6;1:break;2:vacation;3:hold;4:a break;4:pause;5:holiday;5:stop;5:rest
+PREDICTED_RESULTS:
+	1) break:12
+	2) tour:36.666666666666664
+	3) vacation:37.666666666666664
+	4) pause:45
+	5) hold:62.666666666666664
+	6) split:62.666666666666664
+	7) rotation:68.66666666666667
+	8) release:70.66666666666667
+	9) retirement:74.66666666666667
+	10) contract:85.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:monte plata is a province of the dominican republic , and also the name of its capital city . it was split from san crist_bal in 1992 .
+COMPLEX_WORD:province
+GOLD_SUBSTITUTES:4;1:area;2:region;3:section;4:town;4:territory;4:district;5:division
+PREDICTED_RESULTS:
+	1) district:31
+	2) city:36.0
+	3) country:42.0
+	4) region:42
+	5) town:42.0
+	6) department:49.0
+	7) county:50.0
+	8) part:52.0
+	9) state:56.0
+	10) nation:70.0
+
+___________________________________________________________________________________________
+SENTENCE:from 1908 to 1911 he was the principal conductor of the vienna hofoper succeeding gustav mahler ; he retained the conductorship of the vienna philharmonic until 1927 .
+COMPLEX_WORD:retained
+GOLD_SUBSTITUTES:18;1:kept
+PREDICTED_RESULTS:
+	1) held:26
+	2) kept:41
+	3) maintained:44
+	4) gained:48
+	5) remained:50
+	6) acquired:58.333333333333336
+	7) continued:60
+	8) left:63
+	9) secured:64.33333333333333
+	10) stayed:68
+
+___________________________________________________________________________________________
+SENTENCE:mexican cinnamon hot chocolate is traditionally served alongside a variety of mexican pastries known as pan dulce and , as in spain , churros .
+COMPLEX_WORD:traditionally
+GOLD_SUBSTITUTES:5;1:normally;2:customarily;2:always;2:originally;2:commonly;2:typically;2:historically
+PREDICTED_RESULTS:
+	1) usually:22
+	2) typically:33
+	3) generally:34
+	4) often:41.333333333333336
+	5) commonly:44
+	6) normally:46
+	7) historically:53
+	8) also:62.333333333333336
+	9) primarily:74.33333333333333
+	10) mostly:75.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:cholera , sometimes known as asiatic or epidemic cholera , is an infectious gastroenteritis caused by enterotoxin-producing strains of the bacterium vibrio cholerae .
+COMPLEX_WORD:strains
+GOLD_SUBSTITUTES:17;1:types;2:kinds;3:lines;3:groups;4:variations;5:styles;5:families;5:differences;5:problems;5:pieces;5:forms;5:pressures;5:classes;5:chunks;5:type;5:a family
+PREDICTED_RESULTS:
+	1) species:31
+	2) cells:36
+	3) types:36
+	4) kinds:37
+	5) cultures:39
+	6) bacteria:46
+	7) members:62
+	8) generations:63.666666666666664
+	9) versions:64
+	10) viruses:64.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:a hurricane struck dominica and puerto rico between july 22 and july 24 .
+COMPLEX_WORD:struck
+GOLD_SUBSTITUTES:2;1:hit;2:nit
+PREDICTED_RESULTS:
+	1) hit:24.333333333333336
+	2) touched:33.333333333333336
+	3) attacked:39.333333333333336
+	4) reached:47.333333333333336
+	5) threatened:52.333333333333336
+	6) shook:66.33333333333333
+	7) crossed:67.33333333333333
+	8) rocked:70.33333333333333
+	9) affected:71.33333333333333
+	10) made:74.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:in 1975 the old district steinfurt was merged with the district tecklenburg , and together with greven and saerbeck from the former district m_nster the current district was formed .
+COMPLEX_WORD:formed
+GOLD_SUBSTITUTES:28;1:founded;1:born;1:started;1:established
+PREDICTED_RESULTS:
+	1) created:26
+	2) made:27
+	3) founded:47
+	4) established:54
+	5) born:57
+	6) built:58
+	7) started:61
+	8) composed:66
+	9) joined:66
+	10) named:68
+
+___________________________________________________________________________________________
+SENTENCE:it was discovered by a team of astronomers led by brett j. gladman , et al . in 2003 .
+COMPLEX_WORD:discovered
+GOLD_SUBSTITUTES:2;1:evident
+PREDICTED_RESULTS:
+	1) found:10
+	2) noticed:46
+	3) identified:54
+	4) seen:55
+	5) named:57
+	6) observed:57
+	7) spotted:59
+	8) made:65
+	9) studied:68.0
+	10) detected:73
+
+___________________________________________________________________________________________
+SENTENCE:city of faizabad is the headquarters of faizabad district and a municipal board in the state of uttar pradesh , india , situated on the banks of river ghaghra .
+COMPLEX_WORD:headquarters
+GOLD_SUBSTITUTES:5;1:base;2:home;3:location;4:office;5:capital;6:main office;6:hometown;6:head building;6:home office;6:central location;6:head office;6:main location
+PREDICTED_RESULTS:
+	1) center:29.0
+	2) seat:40
+	3) chief:47.0
+	4) capital:48.0
+	5) home:49.0
+	6) centre:52.0
+	7) central:55.0
+	8) offices:58.0
+	9) hq:68
+	10) leaders:74.0
+
+___________________________________________________________________________________________
+SENTENCE:hms guardian set out before the convict ships but struck ice after leaving the cape of good hope , returned to southern africa and was wrecked on the coast .
+COMPLEX_WORD:returned
+GOLD_SUBSTITUTES:19;1:came back;2:went back;3:went;4:gone;4:headed;4:came-back;4:turned;4:back;4:went again;4:turned around;4:revisited;4:relocated
+PREDICTED_RESULTS:
+	1) went:40.0
+	2) came:45.0
+	3) moved:46
+	4) sent:50
+	5) turned:55
+	6) traveled:71
+	7) left:73
+	8) arrived:77
+	9) led:77
+	10) travelled:80
+
+___________________________________________________________________________________________
+SENTENCE:on 1 october 1983 the pilot project began operations as a full-fledged bank and was renamed the grameen bank to make loans to poor bangladeshis .
+COMPLEX_WORD:full-fledged
+GOLD_SUBSTITUTES:11;1:real;2:developed;3:total;3:qualified;4:full-service;5:major;5:actual;5:working;5:bona fide;5:fully operating;5:legitimate;5:genuine
+PREDICTED_RESULTS:
+	1) complete:34
+	2) real:52.666666666666664
+	3) proper:54.666666666666664
+	4) new:61.666666666666664
+	5) formal:68.66666666666667
+	6) national:68.66666666666667
+	7) regular:69.66666666666667
+	8) permanent:71.66666666666667
+	9) separate:72.66666666666667
+	10) professional:74.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:riel sought to preserve mtis rights and culture as their homelands in the northwest came progressively under the canadian sphere of influence .
+COMPLEX_WORD:sought
+GOLD_SUBSTITUTES:1;1:wanted;2:looked;3:seeked;3:wated;3:desired;3:attempted;3:acted;3:strove;3:looked for;3:searched;3:worked
+PREDICTED_RESULTS:
+	1) attempted:44
+	2) wanted:45
+	3) worked:46
+	4) tried:52
+	5) intended:63
+	6) seeks:64.33333333333333
+	7) seeking:65.33333333333333
+	8) aimed:66
+	9) fought:68
+	10) pushed:69
+
+___________________________________________________________________________________________
+SENTENCE:they are characterized by spirituality and metaphysical themes , extremely long takes , lack of conventional dramatic structure and plot , and memorable cinematography .
+COMPLEX_WORD:cinematography
+GOLD_SUBSTITUTES:23;1:filming;2:movies;3:pictures;3:film;3:filmmaking;4:visuals;5:movie;6:scenery;6:camera work;6:filming style;6:movie making;6:movie planning;6:photography;6:directing;6:scenes;6:photos;6:imagery;6:films;6:filmography;6:video;6:graphics;6:backdrops;6:performances
+PREDICTED_RESULTS:
+	1) photography:33
+	2) film:49
+	3) lighting:49.0
+	4) scenes:50.0
+	5) shots:50.0
+	6) camera:54.0
+	7) scenery:54.0
+	8) imagery:56.0
+	9) films:59.0
+	10) footage:62.0
+
+___________________________________________________________________________________________
+SENTENCE:glaciologically , ice age implies the presence of extensive ice sheets in the northern and southern hemispheres ; by this definition we are still in the ice age that began at the start of the pleistocene .
+COMPLEX_WORD:definition
+GOLD_SUBSTITUTES:20;1:meaning;2:explanation;3:description;4:idea;5:theory;5:classification;5:characterization;5:measure;5:answer;5:translation;5:example
+PREDICTED_RESULTS:
+	1) description:34
+	2) statement:42.666666666666664
+	3) interpretation:52
+	4) notion:54
+	5) reference:61.666666666666664
+	6) concept:63
+	7) method:63.666666666666664
+	8) theory:65.66666666666667
+	9) view:69.66666666666667
+	10) conception:70.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:grolangheim is a municipality in the district of kitzingen in bavaria in germany .
+COMPLEX_WORD:municipality
+GOLD_SUBSTITUTES:3;1:town;2:area;3:region;4:community;5:building;5:section;5:village
+PREDICTED_RESULTS:
+	1) town:12
+	2) city:18
+	3) community:36
+	4) village:38.0
+	5) place:66.0
+	6) commune:69
+	7) district:70.0
+	8) hamlet:73.0
+	9) borough:74.0
+	10) name:75.0
+
+___________________________________________________________________________________________
+SENTENCE:when a fair weather waterspout makes landfall it quickly dissipates as it loses the inflow of warm air into the vortex .
+COMPLEX_WORD:dissipates
+GOLD_SUBSTITUTES:9;1:disappears;2:scatters;3:fades;3:goes away;3:lessens;3:spreads;4:breaks up;4:evaporates;4:wastes;5:depletes;5:falls apart;5:shrinks;5:disolves;5:disperses;5:scattered;5:fizzles;5:stops;5:vanishes;5:dispels;5:slows;5:begins to melt away;5:clears;5:diminishes;5:vaporizes
+PREDICTED_RESULTS:
+	1) passes:48
+	2) does:48.333333333333336
+	3) dies:49.333333333333336
+	4) stops:52.333333333333336
+	5) settles:55.333333333333336
+	6) follows:61.333333333333336
+	7) sinks:61.333333333333336
+	8) occurs:65.33333333333333
+	9) returns:66.33333333333333
+	10) clears:71
+
+___________________________________________________________________________________________
+SENTENCE:after receiving the news of the important award , yunus announced that he would use part of his share of the $ 1.4 million award money to create a company to make low-cost , high-nutrition food for the poor ; while the rest would go toward setting up an eye hospital for the poor in bangladesh .
+COMPLEX_WORD:announced
+GOLD_SUBSTITUTES:10;1:declared;2:informed
+PREDICTED_RESULTS:
+	1) said:23
+	2) decided:32
+	3) explained:42
+	4) promised:42
+	5) declared:46
+	6) mentioned:51
+	7) confirmed:53
+	8) stated:53
+	9) revealed:56
+	10) indicated:59
+
+___________________________________________________________________________________________
+SENTENCE:phillip was appointed governor of new south wales , the first european colony on the australian continent , and was the founder of the site which is now the city of sydney .
+COMPLEX_WORD:appointed
+GOLD_SUBSTITUTES:2;1:named;1:selected;2:elected;3:the chosen;3:hired;3:designated;3:chosen as
+PREDICTED_RESULTS:
+	1) named:25
+	2) made:43
+	3) elected:44
+	4) chosen:57
+	5) established:57
+	6) served:57
+	7) commissioned:61
+	8) invited:62
+	9) created:63
+	10) the:63.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:after the demise of the whl , however , the stanley cup was awarded exclusively to the nhl playoff champion , and the wales trophy was given to the regular season champion .
+COMPLEX_WORD:exclusively
+GOLD_SUBSTITUTES:14;1:soley;1:entirely;2:singularly
+PREDICTED_RESULTS:
+	1) only:18
+	2) specifically:37
+	3) solely:41
+	4) entirely:42
+	5) strictly:44
+	6) purely:49
+	7) directly:50.333333333333336
+	8) primarily:58.333333333333336
+	9) alone:61
+	10) mainly:68.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:italy purchased the city in 1905 and made mogadishu the capital of italian somaliland .
+COMPLEX_WORD:purchased
+GOLD_SUBSTITUTES:1;1:bought
+PREDICTED_RESULTS:
+	1) bought:24.0
+	2) received:34
+	3) sold:35
+	4) acquired:40
+	5) captured:59.0
+	6) owned:60
+	7) obtained:61
+	8) seized:69.0
+	9) rented:71.0
+	10) claimed:75.0
+
+___________________________________________________________________________________________
+SENTENCE:the short-beaked echidna is an iconic animal in contemporary australia , notably appearing on the australian five-cent piece and on a $ 200 commemorative coin released in 1992 .
+COMPLEX_WORD:contemporary
+GOLD_SUBSTITUTES:8;1:present-day;1:old;2:mainstream;2:present day;2:historical;2:today's;2:popular;2:recent
+PREDICTED_RESULTS:
+	1) modern:21
+	2) western:33.0
+	3) current:37
+	4) recent:60
+	5) traditional:60.0
+	6) fresh:66.0
+	7) the:70.0
+	8) colonial:74.0
+	9) casual:75.0
+	10) southern:77.0
+
+___________________________________________________________________________________________
+SENTENCE:situated 13 miles southeast of seattle , washington , renton straddles the southeast shore of lake washington .
+COMPLEX_WORD:situated
+GOLD_SUBSTITUTES:0;1:located;2:placed;3:set;4:at;4:on;4:positioned;4:around;4:sitting
+PREDICTED_RESULTS:
+	1) located:17
+	2) placed:29
+	3) based:30
+	4) seated:43
+	5) established:48
+	6) settled:49
+	7) lying:52.333333333333336
+	8) found:53
+	9) approximately:53.333333333333336
+	10) precisely:53.333333333333336
+
+___________________________________________________________________________________________
+SENTENCE:yass is a prominent area for raising sheep which produce very fine wool due to the soil and climatic conditions of the yass area .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:3;1:important;1:noticeable;2:known;2:popular;2:major;2:great;3:prime;3:big;3:famous;3:obvious;3:main;3:noted;4:huge;4:striking;4:defined;4:noticable;4:valuable;4:large;4:ideal;4:rich;4:excellent;4:populat
+PREDICTED_RESULTS:
+	1) famous:29
+	2) major:30
+	3) significant:44
+	4) popular:44.333333333333336
+	5) large:50.333333333333336
+	6) distinguished:51
+	7) leading:57
+	8) strong:65.33333333333333
+	9) common:71.33333333333333
+	10) key:81
+
+___________________________________________________________________________________________
+SENTENCE:the interest was so great that developers found themselves advertising the parks rather than their own developments , as the highest prices would exist for the park perceived to be best .
+COMPLEX_WORD:advertising
+GOLD_SUBSTITUTES:9;1:promoting;2:selling;3:talking about;3:showing;4:praising;4:announcing;4:marketing;5:revealing;5:offering;5:telling people about;5:pushing;5:talking;5:publicizing;5:demonstrating;5:boosting;5:hyping;5:displaying
+PREDICTED_RESULTS:
+	1) marketing:23
+	2) selling:30.333333333333336
+	3) promoting:48
+	4) using:48.333333333333336
+	5) operating:60.333333333333336
+	6) offering:62.333333333333336
+	7) announcing:63
+	8) reporting:64
+	9) ad:69.33333333333333
+	10) attacking:71.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:the romans believed the fumes produced by burning castoreum could induce an abortion ; paracelsus thought it could be used in the treatment of epilepsy ; and medieval beekeepers used it to increase honey production .
+COMPLEX_WORD:produced
+GOLD_SUBSTITUTES:5;1:caused;2:composed
+PREDICTED_RESULTS:
+	1) made:25
+	2) created:26
+	3) released:35
+	4) generated:54
+	5) formed:61
+	6) offered:62
+	7) caused:64
+	8) left:64
+	9) obtained:71
+	10) manufactured:73
+
+___________________________________________________________________________________________
+SENTENCE:outcast of redwall is a fantasy novel by brian jacques , published in 1995 .
+COMPLEX_WORD:novel
+GOLD_SUBSTITUTES:6;1:text
+PREDICTED_RESULTS:
+	1) book:27.333333333333336
+	2) story:30.333333333333336
+	3) series:50.333333333333336
+	4) fiction:59
+	5) romance:63
+	6) work:63.333333333333336
+	7) tale:68.33333333333333
+	8) books:78.33333333333333
+	9) adventure:81.33333333333333
+	10) fantasy:84.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:with the others bailed out for various food items , tom was the last man standing and won immunity .
+COMPLEX_WORD:various
+GOLD_SUBSTITUTES:6;1:many;2:a number of;3:many different;3:numerous;3:random;3:some;3:diffrent
+PREDICTED_RESULTS:
+	1) other:15
+	2) different:18
+	3) some:36.666666666666664
+	4) several:38
+	5) certain:39
+	6) the:51.666666666666664
+	7) their:57.666666666666664
+	8) multiple:61
+	9) specific:68.66666666666667
+	10) numerous:70
+
+___________________________________________________________________________________________
+SENTENCE:jamie farr is an american television and film actor and popular game show panelist .
+COMPLEX_WORD:panelist
+GOLD_SUBSTITUTES:13;1:player;2:participant;2:guest;3:contestant;4:judge;5:contributor;6:actor
+PREDICTED_RESULTS:
+	1) host:41.333333333333336
+	2) guest:44.333333333333336
+	3) judge:45.333333333333336
+	4) speaker:60
+	5) commentator:60.333333333333336
+	6) contestant:63.333333333333336
+	7) personality:76.33333333333333
+	8) player:76.33333333333333
+	9) member:78.33333333333333
+	10) hostess:81.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:the association of virtue with withdrawal from society - and specifically from cities - was a familiar theme in religious literature .
+COMPLEX_WORD:theme
+GOLD_SUBSTITUTES:17;1:idea;2:topic;3:motif;4:concept;4:design;4:happening;4:point
+PREDICTED_RESULTS:
+	1) idea:36.33333333333333
+	2) topic:50
+	3) subject:61
+	4) concept:68.33333333333333
+	5) metaphor:72.33333333333333
+	6) issue:73
+	7) pattern:73.33333333333333
+	8) title:75.33333333333333
+	9) element:84.33333333333333
+	10) notion:88.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:at the end of each season , a series of playoff games are contested among the top six teams in the nfc , consisting of the four division champions and the two other teams with the best win-loss records .
+COMPLEX_WORD:contested
+GOLD_SUBSTITUTES:13;1:played;2:fought;3:debated;4:running;4:disputed;4:engaged in;4:matched
+PREDICTED_RESULTS:
+	1) played:15
+	2) fought:22
+	3) held:25.333333333333336
+	4) won:41
+	5) drawn:48.333333333333336
+	6) determined:50.333333333333336
+	7) entered:52.333333333333336
+	8) shared:63.333333333333336
+	9) scheduled:65.33333333333333
+	10) sought:68.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:after the partitions of poland in 1794 the area was annexed by prussia .
+COMPLEX_WORD:annexed
+GOLD_SUBSTITUTES:10;1:taken;2:taken over;3:united;3:seized;4:captured;5:cut off;5:cutoff;5:overtaken;5:seperated;5:adjoined;5:conquered;5:made permanent
+PREDICTED_RESULTS:
+	1) occupied:38.0
+	2) conquered:45.0
+	3) invaded:55.0
+	4) acquired:56.0
+	5) entered:56
+	6) taken:59.0
+	7) claimed:61.0
+	8) ruled:64.0
+	9) adopted:69.0
+	10) transferred:69
+
+___________________________________________________________________________________________
+SENTENCE:a british nobleman , lord stanhope , took an interest in hauser and gained custody of him late in 1831 .
+COMPLEX_WORD:gained
+GOLD_SUBSTITUTES:13;1:obtained;1:received;1:earned;2:was given;2:aquired;2:increased;2:gave
+PREDICTED_RESULTS:
+	1) took:42
+	2) had:49
+	3) regained:51
+	4) lost:52.333333333333336
+	5) acquired:55
+	6) obtained:56
+	7) won:57
+	8) got:58
+	9) retained:62
+	10) sought:62
+
+___________________________________________________________________________________________
+SENTENCE:simon phillip cowell is an english music executive , television producer and entrepreneur .
+COMPLEX_WORD:entrepreneur
+GOLD_SUBSTITUTES:12;1:businessman;2:business owner;3:business man;4:businessperson;5:tycoon;5:business starter;5:founder;5:buisnessman;5:business-owner;5:promoter;5:employer;5:manager;5:business organizer;5:buiness owner;5:businesman;5:salesman;5:maker;5:business creator;5:businessmen
+PREDICTED_RESULTS:
+	1) businessman:17
+	2) artist:45.333333333333336
+	3) business:46
+	4) engineer:48.333333333333336
+	5) actor:50.333333333333336
+	6) executive:50.333333333333336
+	7) inventor:51.333333333333336
+	8) author:52.333333333333336
+	9) investor:54.333333333333336
+	10) producer:58.333333333333336
+
+___________________________________________________________________________________________
+SENTENCE:the principal greenhouse , in an art nouveau style with a modern metallic structure , resembles the mid-19th century crystal palace in london .
+COMPLEX_WORD:resembles
+GOLD_SUBSTITUTES:15;1:looks like;2:matches;3:simulates;3:mirrors;3:looks-like;3:reminds one of;3:favors;3:look like;3:is similar to;3:mimics;3:appears like;3:echos;3:match
+PREDICTED_RESULTS:
+	1) like:40.0
+	2) appears:41
+	3) reminds:43
+	4) is:52.0
+	5) looks:55
+	6) suggests:57
+	7) echoes:58
+	8) likes:58.0
+	9) follows:60.0
+	10) mirrors:67
+
+___________________________________________________________________________________________
+SENTENCE:metlink , formerly the met , is the marketing body and umbrella brand for public train , tram and bus transport operators in greater melbourne , victoria , australia .
+COMPLEX_WORD:brand
+GOLD_SUBSTITUTES:12;1:company;2:type;3:symbol;4:status;4:body;4:kind;4:character;4:trademark;4:term;4:entity;4:tradename;4:mark;4:maker;4:manufacturer
+PREDICTED_RESULTS:
+	1) name:32.33333333333333
+	2) company:41.33333333333333
+	3) label:47
+	4) business:59.33333333333333
+	5) mark:78
+	6) firm:80.33333333333333
+	7) trademark:81
+	8) group:81.33333333333333
+	9) product:84.33333333333333
+	10) team:84.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:schoenberg refused , saying `` i would only make you a bad schoenberg , and you 're such a good gershwin already . ''
+COMPLEX_WORD:refused
+GOLD_SUBSTITUTES:1;1:said no;2:declined;3:denied;4:rejected;5:did not;5:didn't;6:replied;6:disagreed;6:wouldn't;6:would not;6:turned his back;6:chose not to;6:reject;6:negated;6:denies
+PREDICTED_RESULTS:
+	1) agreed:36
+	2) declined:37
+	3) failed:41
+	4) accepted:47
+	5) resisted:50
+	6) denied:52
+	7) stopped:53
+	8) obliged:59.666666666666664
+	9) insisted:61.666666666666664
+	10) offered:64
+
+___________________________________________________________________________________________
+SENTENCE:however media outlets soon found ways around the ban , initially by the use of subtitles , but later and more commonly by the use of an actor reading his words over the images of him speaking .
+COMPLEX_WORD:initially
+GOLD_SUBSTITUTES:10;1:at first;2:originally;3:firstly;4:always;4:first off;4:starting
+PREDICTED_RESULTS:
+	1) first:41
+	2) originally:60
+	3) only:62.0
+	4) previously:66
+	5) primarily:69
+	6) also:71.0
+	7) then:73.0
+	8) generally:74.0
+	9) often:75.0
+	10) mainly:77.0
+
+___________________________________________________________________________________________
+SENTENCE:however , the new king , louis xviii , knew that ideas of nationalism and democracy still lingered in his country ; hence the establishment and signing of the charte constitutionnelle franaise , the french constitution otherwise known as la charte .
+COMPLEX_WORD:hence
+GOLD_SUBSTITUTES:22;1:causing;2:from now on;2:this led to;2:which led to;2:since;2:bringing about;2:which lead to;2:that is the reason for;2:due to;2:forward;2:leading to
+PREDICTED_RESULTS:
+	1) therefore:25
+	2) so:33.0
+	3) thus:39.0
+	4) nevertheless:69.0
+	5) see:69.0
+	6) since:70.0
+	7) particularly:71.0
+	8) reason:73.0
+	9) indeed:80.0
+	10) in:82.0
+
+___________________________________________________________________________________________
+SENTENCE:in 1639 , williams established a baptist church in providence , rhode island , and clarke began a baptist church in newport , rhode island .
+COMPLEX_WORD:established
+GOLD_SUBSTITUTES:4;1:started;2:founded;3:set up;3:completed;3:owns
+PREDICTED_RESULTS:
+	1) built:30
+	2) started:30
+	3) began:46
+	4) developed:47
+	5) organized:48
+	6) created:51
+	7) opened:51
+	8) founded:58.0
+	9) settled:62
+	10) formed:65.0
+
+___________________________________________________________________________________________
+SENTENCE:while each edition of windows 2000 was targeted to a different market , they share a core set of features , including many system utilities such as the microsoft management console and standard system administration applications .
+COMPLEX_WORD:core
+GOLD_SUBSTITUTES:16;1:basic;2:main;3:base;4:central;5:similair;5:important;5:kernal;5:fundamental
+PREDICTED_RESULTS:
+	1) basic:30
+	2) key:31
+	3) central:41.666666666666664
+	4) main:42.666666666666664
+	5) base:52.666666666666664
+	6) center:62.666666666666664
+	7) common:63.666666666666664
+	8) primary:66.66666666666667
+	9) fundamental:67.66666666666667
+	10) similar:75.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the battalion is usually part of a regiment , group or a brigade , depending on the organizational model used by that service .
+COMPLEX_WORD:usually
+GOLD_SUBSTITUTES:3;1:normally;2:mostly;3:generally;4:typically;4:commonly;5:most of the time;5:for the most part;5:almost always;5:most often
+PREDICTED_RESULTS:
+	1) always:29
+	2) often:34
+	3) normally:46
+	4) generally:49
+	5) typically:49
+	6) mostly:60
+	7) sometimes:62.0
+	8) commonly:63
+	9) also:74.0
+	10) then:75.0
+
+___________________________________________________________________________________________
+SENTENCE:intense feelings of resentment trigger the initial retaliation , which causes the other party to feel equally aggrieved and vengeful .
+COMPLEX_WORD:retaliation
+GOLD_SUBSTITUTES:7;1:revenge;2:payback;2:reaction;2:response;2:fight back;3:vengeance;3:return;3:counterattack;4:retribution;4:revengeance;4:reprisal;4:vengance;4:repayment;4:anger;4:vengence;4:punishment
+PREDICTED_RESULTS:
+	1) revenge:27
+	2) response:37
+	3) reaction:41.333333333333336
+	4) punishment:53.333333333333336
+	5) hostility:66.33333333333333
+	6) vengeance:68
+	7) jealousy:73.33333333333333
+	8) confrontation:74.33333333333333
+	9) resentment:76.33333333333333
+	10) criticism:80.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:slipknot is a heavy metal band formed by vocalist and percussionist anders colsefni , guitarists donnie steele and josh `` gnar '' brainard , bassist paul gray , drummer joey jordison and percussionist shawn crahan , in des moines , iowa .
+COMPLEX_WORD:formed
+GOLD_SUBSTITUTES:6;1:started;2:put together;3:begun;3:shaped
+PREDICTED_RESULTS:
+	1) created:25
+	2) started:36
+	3) developed:42
+	4) established:43
+	5) founded:44
+	6) built:56
+	7) joined:56
+	8) led:60
+	9) begun:66
+	10) composed:69
+
+___________________________________________________________________________________________
+SENTENCE:the most recent goaltender to have scored a goal by deliberately shooting the puck into his opponents ' net was evgeni nabokov , in 2002 .
+COMPLEX_WORD:deliberately
+GOLD_SUBSTITUTES:10;1:purposely;2:purposefully;3:intentionally;4:knowingly;5:freely;5:on purpose;6:purposly;6:willfully;6:purposfully;6:directly;6:carefully;6:instinctively
+PREDICTED_RESULTS:
+	1) intentionally:40
+	2) simply:48.333333333333336
+	3) accidentally:54.333333333333336
+	4) purposely:60
+	5) just:62.333333333333336
+	6) actually:65.33333333333333
+	7) secretly:68.33333333333333
+	8) carefully:69.33333333333333
+	9) consciously:70
+	10) not:71.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:these notable synagogues include ; the great synagogue of rome , the new synagogue , the leopoldst_dter tempel , the grand choral synagogue , the great synagogue , the moscow choral synagogue , the great synagogue of florence , the great synagogue , plzen , the great synagogue , the ko ice orthodox synagogue , the novi sad synagogue , the szeged synagogue , the sofia synagogue and the great synagogue of oran .
+COMPLEX_WORD:notable
+GOLD_SUBSTITUTES:1;1:important;2:famous;3:popular;4:great;5:major;5:prominet;5:evident;5:noticeable;5:famed;5:known;5:main;5:best
+PREDICTED_RESULTS:
+	1) major:37.333333333333336
+	2) important:39
+	3) famous:43.333333333333336
+	4) significant:47
+	5) prominent:50
+	6) remarkable:52
+	7) large:63.333333333333336
+	8) unusual:63.333333333333336
+	9) several:64.33333333333333
+	10) great:70.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:the northern and western edges of the cotswolds are marked by steep escarpments down to the severn valley and the warwickshire avon .
+COMPLEX_WORD:escarpments
+GOLD_SUBSTITUTES:12;1:cliffs;2:slope;2:bluffs;2:ledges;2:rocks;3:embankments;3:steps;3:inclines;3:cliff like ridge;3:declines
+PREDICTED_RESULTS:
+	1) hills:36.0
+	2) cliffs:39.0
+	3) sides:41.0
+	4) slopes:47.0
+	5) mountains:55.0
+	6) valleys:58.0
+	7) walls:58.0
+	8) rocks:60.0
+	9) steps:63.0
+	10) climbs:65.0
+
+___________________________________________________________________________________________
+SENTENCE:the roof of the west stand is corrugated iron this also houses the main television gantry which is accessed from the upper tier seating area by a temporary ladder .
+COMPLEX_WORD:tier
+GOLD_SUBSTITUTES:22;1:section;2:area;3:part of;3:layer;3:floor;3:deck;3:series;3:sectioned;3:rows of
+PREDICTED_RESULTS:
+	1) level:19
+	2) deck:51.666666666666664
+	3) floor:54.666666666666664
+	4) stage:54.666666666666664
+	5) class:59.666666666666664
+	6) row:61.666666666666664
+	7) side:67.66666666666667
+	8) top:71.66666666666667
+	9) set:73.66666666666667
+	10) platform:74.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:it gradually decayed into a surface low pressure trough , and developed into two disturbances ; one was centered 290 miles south-southeast of cape cod and another was located 200 miles south of cape hatteras , north carolina .
+COMPLEX_WORD:gradually
+GOLD_SUBSTITUTES:1;1:increasingly;1:eventually;2:regularly;2:over time;2:gently;2:little by little
+PREDICTED_RESULTS:
+	1) eventually:24
+	2) slowly:28
+	3) soon:38.333333333333336
+	4) quickly:39.333333333333336
+	5) then:42.333333333333336
+	6) finally:44.333333333333336
+	7) suddenly:47.333333333333336
+	8) rapidly:56.333333333333336
+	9) steadily:62
+	10) quietly:68.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:while in cambrai he collaborated with nicolas grenon on a complete revision of the liturgical musical collection of the cathedral , which included writing an extensive collection of polyphonic music for services .
+COMPLEX_WORD:included
+GOLD_SUBSTITUTES:22;1:involved;2:contained;3:consisted of;3:covered;4:also meant;4:was part of;5:was in part;5:took into account;5:had him;5:came with;5:comprised;5:also had;5:contain;5:was made up of
+PREDICTED_RESULTS:
+	1) involved:34
+	2) was:43
+	3) required:47
+	4) meant:53
+	5) contained:60
+	6) had:60
+	7) added:64.66666666666667
+	8) considered:66
+	9) covered:72
+	10) began:74
+
+___________________________________________________________________________________________
+SENTENCE:nevertheless , until the middle of the 20th century , agriculture dominated the canton .
+COMPLEX_WORD:nevertheless
+GOLD_SUBSTITUTES:0;1:regardless;2:yet;3:anyway;4:but;5:nonetheless;5:in any way;5:either way;5:even so;5:anyhow;5:sill;5:in any case
+PREDICTED_RESULTS:
+	1) however:19
+	2) still:28
+	3) although:44.666666666666664
+	4) therefore:44.666666666666664
+	5) but:45
+	6) nonetheless:53
+	7) yet:57
+	8) furthermore:59.666666666666664
+	9) indeed:59.666666666666664
+	10) thus:65.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:this category contains articles about albums released on island records .
+COMPLEX_WORD:contains
+GOLD_SUBSTITUTES:2;1:holds;2:houses
+PREDICTED_RESULTS:
+	1) includes:30
+	2) holds:37
+	3) is:38
+	4) has:39
+	5) represents:51
+	6) covers:57
+	7) lists:58
+	8) provides:60
+	9) brings:64
+	10) features:64
+
+___________________________________________________________________________________________
+SENTENCE:kasem is best known by name as a music historian and disc jockey , most notably as host of the weekly american top 40 radio program from 1970 to 1988 , and again from march 1998 until january 10 , 2004 , when ryan seacrest succeeded him .
+COMPLEX_WORD:program
+GOLD_SUBSTITUTES:25;1:show;2:segment;2:agenda
+PREDICTED_RESULTS:
+	1) show:30.0
+	2) series:50.0
+	3) station:52.0
+	4) service:54.0
+	5) schedule:57.0
+	6) report:63.0
+	7) host:78.0
+	8) broadcast:79.0
+	9) competition:81.0
+	10) segment:83.0
+
+___________________________________________________________________________________________
+SENTENCE:spun yarns may contain a single type of fiber , or be a blend of various types . combining synthetic fibers with natural fibers is very common .
+COMPLEX_WORD:various
+GOLD_SUBSTITUTES:15;1:many;2:lots of;2:myriad
+PREDICTED_RESULTS:
+	1) other:24
+	2) different:25
+	3) several:33
+	4) many:38
+	5) certain:42
+	6) these:42.666666666666664
+	7) some:48.666666666666664
+	8) multiple:50
+	9) three:53.666666666666664
+	10) all:59.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:the atmosphere was so intense that gring , in a telephone call that evening , stated : `` there is unbelievable jubilation in austria .
+COMPLEX_WORD:stated
+GOLD_SUBSTITUTES:15;1:daid;1:sayed
+PREDICTED_RESULTS:
+	1) said:13
+	2) reported:45
+	3) mentioned:46
+	4) wrote:49.666666666666664
+	5) announced:52
+	6) spoke:52.666666666666664
+	7) asked:56
+	8) described:57
+	9) noted:59
+	10) declared:63
+
+___________________________________________________________________________________________
+SENTENCE:several other hollywood films are also believed to have been inspired by bollywood films .
+COMPLEX_WORD:inspired
+GOLD_SUBSTITUTES:10;1:influenced;2:encouraged;3:started;3:motivated;4:stirred;4:aroused;5:thought of;5:affected;5:triggered;5:take influence from;5:originated;5:caused;5:guided;5:infuenced;5:fueled;5:based on;5:begun;5:started off;5:brought on;5:moved;5:made in like of
+PREDICTED_RESULTS:
+	1) influenced:35
+	2) informed:36
+	3) motivated:36
+	4) created:39
+	5) helped:41
+	6) led:45
+	7) invited:50
+	8) impressed:54.666666666666664
+	9) caused:56
+	10) triggered:58
+
+___________________________________________________________________________________________
+SENTENCE:the island of ireland lies only 30 k from the southwestern peninsula of kintyre ; norway is 305 k to the east and the faroes , 270 k to the north .
+COMPLEX_WORD:peninsula
+GOLD_SUBSTITUTES:11;1:cape;1:point;2:tip;2:area;3:landmass;4:outcrop;4:island;4:jetty;4:shores;4:point of land;4:land almost surrounded by water;4:land mass;4:border
+PREDICTED_RESULTS:
+	1) coast:41.0
+	2) corner:51.0
+	3) tip:52.0
+	4) part:54.0
+	5) shore:55.0
+	6) point:63.0
+	7) base:66.0
+	8) mainland:68.0
+	9) cape:70.0
+	10) gulf:72.0
+
+___________________________________________________________________________________________
+SENTENCE:the kingdom of the franks under charlemagne was particularly hard-hit by these raiders , who could sail down the seine with near impunity .
+COMPLEX_WORD:impunity
+GOLD_SUBSTITUTES:22;1:freedom;2:immunity;3:safety;4:exception;4:liberty;5:fearlessness;5:without punishment;5:invincibility;5:loss;5:exemption;5:permission;5:easily;5:certainty;5:freedom from punishment;5:secrecy;5:blameless;5:punishment;5:invisibility;5:nonpunishment;5:abandon;5:trouble;5:carelessness;5:unchecked;5:untouchability
+PREDICTED_RESULTS:
+	1) immunity:38
+	2) silence:51.333333333333336
+	3) ease:54.333333333333336
+	4) certainty:56.333333333333336
+	5) freedom:59.333333333333336
+	6) violence:60.333333333333336
+	7) terror:71.33333333333333
+	8) authority:73.33333333333333
+	9) monopoly:75.33333333333333
+	10) safety:77.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:during its boom times , beechworth town boasted a range of industries including , a tannery , jewellers , boot makers , a brewery , blacksmiths , livestock sale yards .
+COMPLEX_WORD:livestock
+GOLD_SUBSTITUTES:27;1:farm animal;2:farm animals;3:farm;3:barnyard animal;3:cows;3:live animal;3:cow
+PREDICTED_RESULTS:
+	1) animal:27.0
+	2) cattle:30.0
+	3) animals:44.0
+	4) sheep:44.0
+	5) horse:48.0
+	6) stock:53.0
+	7) and:55.0
+	8) meat:58.0
+	9) beef:59.0
+	10) horses:63.0
+
+___________________________________________________________________________________________
+SENTENCE:traditionally , after a long period of consuming gimjang kimchi during the winter , fresh potherbs and vegetables were popular for making kimchi . these kinds of kimchi were not fermented or even stored for long periods of time but were consumed fresh .
+COMPLEX_WORD:period
+GOLD_SUBSTITUTES:5;1:portion
+PREDICTED_RESULTS:
+	1) time:5
+	2) while:55.33333333333333
+	3) duration:62
+	4) process:62.33333333333333
+	5) course:63.33333333333333
+	6) year:70.33333333333333
+	7) term:72
+	8) week:72.33333333333333
+	9) history:77.33333333333333
+	10) season:79.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:on 5 february 2007 , apple inc. and apple corps announced a settlement of their trademark dispute under which apple inc. will own all of the trademarks related to `` apple '' and will license certain of those trademarks back to apple corps for their continued use .
+COMPLEX_WORD:announced
+GOLD_SUBSTITUTES:10;1:declared;2:said that;2:revealed;2:told;3:showed;3:told everyone;3:explained;3:informed of;3:agreed to;3:made known;3:made public;3:told about;3:introduced;3:noted;3:told people about
+PREDICTED_RESULTS:
+	1) confirmed:41
+	2) released:45
+	3) agreed:48.666666666666664
+	4) decided:50
+	5) called:51
+	6) declared:54
+	7) reported:54
+	8) ordered:61
+	9) promised:66
+	10) made:67
+
+___________________________________________________________________________________________
+SENTENCE:canadian english is the variety of english used in canada . more than 26 million canadians have some knowledge of english .
+COMPLEX_WORD:variety
+GOLD_SUBSTITUTES:4;1:type;2:kind;3:mix;4:collection;4:version;4:types;4:assortment;4:difference;4:multitude
+PREDICTED_RESULTS:
+	1) type:33.0
+	2) range:34
+	3) form:41.0
+	4) style:49.0
+	5) area:59.0
+	6) choice:68.0
+	7) version:68.0
+	8) language:72.0
+	9) diversity:73
+	10) field:75.0
+
+___________________________________________________________________________________________
+SENTENCE:the books were later adapted into a television series and a feature film .
+COMPLEX_WORD:adapted
+GOLD_SUBSTITUTES:4;1:turned;2:changed;3:converted;4:remade;4:worked;4:mad;4:fit
+PREDICTED_RESULTS:
+	1) developed:25
+	2) turned:39
+	3) arranged:46
+	4) made:51
+	5) used:55
+	6) evolved:57
+	7) adopted:60
+	8) inspired:62
+	9) created:63
+	10) converted:67
+
+___________________________________________________________________________________________
+SENTENCE:the mtr was immediately popular with residents of hong kong ; as a result , subsequent lines have been built to cover more territory . there are continual debates regarding how and where to expand the mtr network .
+COMPLEX_WORD:immediately
+GOLD_SUBSTITUTES:3;1:instantly;2:right away;3:rightaway;3:at once;3:always
+PREDICTED_RESULTS:
+	1) quickly:44
+	2) soon:48
+	3) instantly:52
+	4) already:54.0
+	5) easily:68.0
+	6) initially:69.0
+	7) directly:76
+	8) very:76.0
+	9) also:79.0
+	10) extremely:85.0
+
+___________________________________________________________________________________________
+SENTENCE:this is a considerably higher total than that of any other european country .
+COMPLEX_WORD:considerably
+GOLD_SUBSTITUTES:3;1:much;2:greatly;3:significantly;3:lot;4:noteworthy;4:reasonably;4:larger;4:noticably;4:a lot;4:definitely;4:mcuh;4:remarkably;4:noticeably
+PREDICTED_RESULTS:
+	1) much:14
+	2) slightly:31.0
+	3) somewhat:36.0
+	4) greatly:37
+	5) further:39.0
+	6) quite:39
+	7) very:41
+	8) rather:45.0
+	9) particularly:52.0
+	10) significant:60.0
+
+___________________________________________________________________________________________
+SENTENCE:his reign spanned the years from 809 through 823 .
+COMPLEX_WORD:spanned
+GOLD_SUBSTITUTES:2;1:lasted;2:covered;3:was from;3:went from;3:crossed;3:ranged;4:stretched over;4:was between;4:joined;4:lasted from;4:was in;4:oversaw;4:bridged
+PREDICTED_RESULTS:
+	1) covered:12
+	2) crossed:21
+	3) lasted:25
+	4) stretched:40.333333333333336
+	5) reached:42.333333333333336
+	6) embraced:45
+	7) across:58.333333333333336
+	8) wiped:58.333333333333336
+	9) conquered:62.333333333333336
+	10) dated:62.333333333333336
+
+___________________________________________________________________________________________
+SENTENCE:in 1269 it was the seat of a famous battle during the wars of guelphs and ghibellines and in 1479 it was besieged by neapolitan troops .
+COMPLEX_WORD:besieged
+GOLD_SUBSTITUTES:22;1:attacked;2:taken;3:surrounded;4:taken over;5:invaded;5:overtaken;6:took over;6:placed under seige;6:assaulted;6:captured;6:blockaded
+PREDICTED_RESULTS:
+	1) attacked:20
+	2) occupied:53.666666666666664
+	3) conquered:60.666666666666664
+	4) invaded:60.666666666666664
+	5) siege:60.666666666666664
+	6) trapped:65
+	7) captured:65.66666666666667
+	8) threatened:70.66666666666667
+	9) surrounded:72
+	10) stormed:76.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:once a flourishing saxon riverport , it lies in the waveney valley and is a popular boating center .
+COMPLEX_WORD:lies
+GOLD_SUBSTITUTES:7;1:sits;2:is located;3:rests;4:is found;5:is in;5:stands;5:is situated;5:stis
+PREDICTED_RESULTS:
+	1) is:14
+	2) stands:26
+	3) lay:26.666666666666664
+	4) sits:38
+	5) lays:41
+	6) falls:46
+	7) runs:48
+	8) comes:50
+	9) rests:51
+	10) remains:52
+
+___________________________________________________________________________________________
+SENTENCE:then cogswell asked gallaudet to travel to europe to study methods for teaching deaf students , especially those of the braidwood family in edinburgh , scotland .
+COMPLEX_WORD:travel
+GOLD_SUBSTITUTES:5;1:move;2:fly;2:go with him;3:go to;3:explore;3:journey
+PREDICTED_RESULTS:
+	1) move:19
+	2) go:31.0
+	3) journey:39
+	4) fly:51.0
+	5) return:52.0
+	6) trip:54.0
+	7) visit:58
+	8) come:60.0
+	9) drive:60.0
+	10) leave:67.0
+
+___________________________________________________________________________________________
+SENTENCE:swiss cheese is a generic name common to many countries for several related varieties of cheese which resemble the swiss emmental .
+COMPLEX_WORD:resemble
+GOLD_SUBSTITUTES:17;1:look like;2:are like;3:looks like;4:are similar to;4:mirror;5:lookalike;5:remind;5:matches;5:is similar to;5:mimics;5:favor;5:mimic;5:imitate;5:match
+PREDICTED_RESULTS:
+	1) like:24.666666666666664
+	2) include:50.666666666666664
+	3) match:57.666666666666664
+	4) recall:58.666666666666664
+	5) shape:61.666666666666664
+	6) describe:68.66666666666667
+	7) represent:70.66666666666667
+	8) similar:74.66666666666667
+	9) involve:79.66666666666667
+	10) affect:83.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:fiction records is a uk formerly indie label , now wholly owned by polydor a subsidiary of universal music group , started by chris parry in 1978 that is best known as being the home of the cure for over 20 years .
+COMPLEX_WORD:owned
+GOLD_SUBSTITUTES:11;1:bought;2:controlled;3:possessed;3:kept;3:belonging to;4:ran;5:a part of;5:absorbed;5:belongs to;5:belonged to
+PREDICTED_RESULTS:
+	1) bought:28
+	2) held:38
+	3) sold:41.666666666666664
+	4) acquired:49
+	5) controlled:50
+	6) run:50
+	7) operated:53
+	8) purchased:62
+	9) managed:73
+	10) known:89.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the sculpture was made from the same weathering steel as the angel of the north sculpture , which gradually develops a tightly adhering oxide layer as it is exposed to the elements .
+COMPLEX_WORD:gradually
+GOLD_SUBSTITUTES:18;1:over time;2:eventually;3:fastly
+PREDICTED_RESULTS:
+	1) slowly:17
+	2) eventually:29
+	3) then:39.333333333333336
+	4) soon:43.333333333333336
+	5) quickly:45.333333333333336
+	6) rapidly:50.333333333333336
+	7) suddenly:52.333333333333336
+	8) finally:56.333333333333336
+	9) steadily:69
+	10) carefully:74.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:valzacchi and annina now offer their services to him .
+COMPLEX_WORD:services
+GOLD_SUBSTITUTES:6;1:help;2:business;3:skills;3:assistance;3:abilities;3:labor;4:expertise;4:offers;4:jobs;4:assitance
+PREDICTED_RESULTS:
+	1) assistance:52.33333333333333
+	2) skills:53
+	3) resources:60
+	4) works:70.33333333333333
+	5) options:71
+	6) duties:74
+	7) needs:78
+	8) support:78.33333333333333
+	9) tools:79
+	10) contracts:80
+
+___________________________________________________________________________________________
+SENTENCE:because carbon dioxide is released at a faster rate through the acid-base reaction than through fermentation , breads made by chemical leavening are called quick breads .
+COMPLEX_WORD:released
+GOLD_SUBSTITUTES:4;1:let go;2:freed;3:let out;4:put out;4:given off;4:discharged;5:mades;5:exposed;5:issued;5:moved;5:given out;5:dispensed;5:sent out;5:let-go;5:dispersed;5:launched
+PREDICTED_RESULTS:
+	1) introduced:34
+	2) removed:35
+	3) produced:44
+	4) moved:50
+	5) sent:53
+	6) leaked:56
+	7) discharged:57
+	8) available:59
+	9) lost:61
+	10) created:62
+
+___________________________________________________________________________________________
+SENTENCE:as an adult , he was charged with a long list of crimes , including possession of counterfeit money , loitering and prowling , burglary , kidnapping and armed robbery .
+COMPLEX_WORD:loitering
+GOLD_SUBSTITUTES:20;1:lingering;2:hanging around;3:standing;3:waiting;3:standing around;4:wandering;5:tresspassing;5:loafing;5:linger;6:sticking;6:dawdling;6:hanging out;6:hanging;6:pausing;6:being where he was not supposed to be;6:hanging out without a reason;6:trespassing;6:hanging around places he shouldn't be;6:lurking;6:being on another's property;6:wasting time
+PREDICTED_RESULTS:
+	1) walking:33.333333333333336
+	2) lying:39.333333333333336
+	3) wandering:40.333333333333336
+	4) stalking:48.333333333333336
+	5) sneaking:53.333333333333336
+	6) hiding:66.33333333333333
+	7) roaming:66.33333333333333
+	8) driving:67.33333333333333
+	9) running:69.33333333333333
+	10) drinking:72.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:it was founded where the nascent sydney to melbourne road crossed water in the form of the yass river .
+COMPLEX_WORD:nascent
+GOLD_SUBSTITUTES:5;1:emerging;1:developing;2:budding;3:expanding;3:start of the;3:abandoned;3:starting;3:blossoming;3:closeby;3:long;3:newborn;3:promising;3:very early;3:newly forming
+PREDICTED_RESULTS:
+	1) new:29.333333333333336
+	2) first:41.333333333333336
+	3) early:46.333333333333336
+	4) young:54.333333333333336
+	5) initial:60.333333333333336
+	6) former:63.333333333333336
+	7) developing:72.33333333333333
+	8) original:73.33333333333333
+	9) major:75.33333333333333
+	10) main:76.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:heights are measured to the structural height , which includes architectural elements , but not communications spires or antennas , per the guidelines of the council on tall buildings and urban habitat .
+COMPLEX_WORD:includes
+GOLD_SUBSTITUTES:9;1:incorporates;1:adds;1:contain;2:also has;2:sprinting;2:is in part;2:allows for;2:uses;2:joins;2:takes into account;2:entails;2:involves
+PREDICTED_RESULTS:
+	1) contains:29
+	2) covers:31
+	3) represents:38
+	4) involves:39
+	5) is:55
+	6) features:58
+	7) uses:65
+	8) adds:67
+	9) means:67
+	10) names:68
+
+___________________________________________________________________________________________
+SENTENCE:the dam was completed in 1974 and was designed to store water from the indus river for irrigation and flood control , and for the generation of hydro-electric power .
+COMPLEX_WORD:designed
+GOLD_SUBSTITUTES:8;1:engineered;2:made to;2:build;2:intended;2:constructed
+PREDICTED_RESULTS:
+	1) built:18
+	2) intended:29
+	3) used:31
+	4) created:39
+	5) developed:41
+	6) meant:46
+	7) planned:47
+	8) constructed:48
+	9) equipped:57
+	10) prepared:58
+
+___________________________________________________________________________________________
+SENTENCE:xanten is also a popular filming location and the site of many concerts .
+COMPLEX_WORD:site
+GOLD_SUBSTITUTES:9;1:location;2:area;3:home;3:spot;4:palce;4:venue
+PREDICTED_RESULTS:
+	1) place:31.666666666666668
+	2) home:39.66666666666667
+	3) location:41
+	4) scene:57.66666666666667
+	5) spot:65.66666666666667
+	6) city:71.66666666666667
+	7) venue:74
+	8) center:80.66666666666667
+	9) point:81.66666666666667
+	10) host:85.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:loch ness is best known for the alleged sightings of the legendary loch ness monster , also known as `` nessie '' .
+COMPLEX_WORD:legendary
+GOLD_SUBSTITUTES:11;1:famous;2:fabled;3:famed;3:mythical;4:well known;5:mystical;5:great;5:rare;5:awesome;5:unreal;5:supposed;5:popular;5:epic;5:infamous
+PREDICTED_RESULTS:
+	1) famous:15
+	2) mysterious:34.333333333333336
+	3) notorious:44.333333333333336
+	4) infamous:45.333333333333336
+	5) supposed:47.333333333333336
+	6) ancient:55.333333333333336
+	7) historic:55.333333333333336
+	8) popular:55.333333333333336
+	9) traditional:55.333333333333336
+	10) renowned:58.333333333333336
+
+___________________________________________________________________________________________
+SENTENCE:security-enhanced linux is a linux feature that provides a mechanism for supporting access control security policies , including u.s. department of defense style mandatory access controls , through the use of linux security modules in the linux kernel .
+COMPLEX_WORD:provides
+GOLD_SUBSTITUTES:7;1:gives;2:supplies;3:brings;4:grants;4:stocks;4:makes available;4:uses;4:serves
+PREDICTED_RESULTS:
+	1) offers:18
+	2) presents:28
+	3) includes:30
+	4) gives:35.0
+	5) contains:37
+	6) creates:47.0
+	7) is:52.0
+	8) allows:53.0
+	9) brings:58
+	10) delivers:65
+
+___________________________________________________________________________________________
+SENTENCE:it lies on the southern side of lake constance .
+COMPLEX_WORD:lies
+GOLD_SUBSTITUTES:1;1:sits;2:rests;2:is located;3:sets;3:is found;3:can be found;3:resides;3:locates
+PREDICTED_RESULTS:
+	1) is:8
+	2) stands:26
+	3) lays:39
+	4) sits:41
+	5) lay:42.666666666666664
+	6) rises:49
+	7) runs:52
+	8) falls:58
+	9) appears:61
+	10) rests:64
+
+___________________________________________________________________________________________
+SENTENCE:the croatia national football team represents the republic of croatia in international football .
+COMPLEX_WORD:represents
+GOLD_SUBSTITUTES:5;1:plays for;2:stands for;3:serves;4:embodies;4:exhibits;4:symbolizes;5:personifies;5:forms;5:from;5:belongs to;5:acts as;5:captures;5:speaks for;5:equals;5:signifies;5:leads;5:portrays;5:helps;5:marks;5:appears as;5:supports;5:display;5:stands up for;5:is from
+PREDICTED_RESULTS:
+	1) is:37
+	2) serves:40
+	3) leads:45
+	4) has:49
+	5) includes:49
+	6) involves:49
+	7) supports:50
+	8) holds:54
+	9) indicates:66
+	10) matches:67
+
+___________________________________________________________________________________________
+SENTENCE:it is rare and valuable in finer grades and has been prized as a gem and ornamental stone for thousands of years owing to its unique hue .
+COMPLEX_WORD:hue
+GOLD_SUBSTITUTES:26;1:color;2:shade;3:tone;3:type of paint
+PREDICTED_RESULTS:
+	1) color:20.333333333333336
+	2) colour:27
+	3) appearance:47.333333333333336
+	4) shade:47.333333333333336
+	5) condition:59.333333333333336
+	6) tone:59.333333333333336
+	7) coloring:62.333333333333336
+	8) colors:64.33333333333333
+	9) glow:65.33333333333333
+	10) scent:67.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:a tuning fork or electronic tuning device may be used as a reference pitch , though in ensemble rehearsals often a piano is used .
+COMPLEX_WORD:reference
+GOLD_SUBSTITUTES:12;1:source;2:sample;2:starting;2:guide;3:comparison;3:base;3:example;3:basic;4:comparitive;4:note;4:resource;4:baseline;4:relative;4:hint;4:go to;4:guidance;4:suggested;4:related;4:noted;4:helping;4:ideal;4:associating;4:guiding;4:perfect;4:referral;4:pointing out;4:indicating
+PREDICTED_RESULTS:
+	1) standard:57.0
+	2) control:61.0
+	3) base:65.0
+	4) starting:73.0
+	5) guide:75.0
+	6) point:76.0
+	7) test:79.0
+	8) check:83.0
+	9) relative:86.0
+	10) sample:87.0
+
+___________________________________________________________________________________________
+SENTENCE:peter became extratropical on december 11 , and was absorbed by a cold front shortly thereafter .
+COMPLEX_WORD:thereafter
+GOLD_SUBSTITUTES:15;1:after;2:afterwards;3:after that;4:afterward;5:following the eleventh.;5:a little while later.;5:soon after;5:from that time forward
+PREDICTED_RESULTS:
+	1) after:16
+	2) afterwards:22
+	3) afterward:33
+	4) later:48
+	5) subsequently:51
+	6) before:54.666666666666664
+	7) prior:59.666666666666664
+	8) beforehand:67.66666666666667
+	9) shortly:68.66666666666667
+	10) upon:69.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:in 2003 , dushku appeared in wrong turn , a horror film in which she had the starring role , and the kiss , an independent comedy-drama .
+COMPLEX_WORD:appeared
+GOLD_SUBSTITUTES:4;1:acted;1:showed up;2:played;3:was in;4:looked;4:was seen;4:arose;4:showed;4:show up
+PREDICTED_RESULTS:
+	1) played:38
+	2) was:40
+	3) acted:46
+	4) worked:51.333333333333336
+	5) featured:53
+	6) returned:54
+	7) performed:60
+	8) arrived:62
+	9) turned:66
+	10) emerged:67
+
+___________________________________________________________________________________________
+SENTENCE:his fighting style is primarily judo but has been modified to fight without the use of a judogi .
+COMPLEX_WORD:primarily
+GOLD_SUBSTITUTES:4;1:mostly;2:normally;3:essentially;3:basically
+PREDICTED_RESULTS:
+	1) mostly:16
+	2) mainly:29
+	3) originally:41
+	4) strictly:44.666666666666664
+	5) essentially:47
+	6) specifically:50
+	7) largely:52
+	8) generally:59.666666666666664
+	9) also:60.666666666666664
+	10) initially:62
+
+___________________________________________________________________________________________
+SENTENCE:in 1901 , an independent governor was again appointed .
+COMPLEX_WORD:appointed
+GOLD_SUBSTITUTES:8;1:elected;2:selected;3:named;3:hired;4:declared;4:assigned t;4:put in;4:put into office;4:picked;4:given the job;4:employed;4:put in place
+PREDICTED_RESULTS:
+	1) chosen:19
+	2) elected:25
+	3) named:31
+	4) established:47
+	5) hired:48
+	6) confirmed:50
+	7) selected:50
+	8) introduced:55
+	9) authorized:57
+	10) nominated:58
+
+___________________________________________________________________________________________
+SENTENCE:the album primarily deals with social issues that the band points on through various songs .
+COMPLEX_WORD:points
+GOLD_SUBSTITUTES:10;1:focuses;2:hits;2:speaks;3:indicates;3:notes;3:discusses;3:talks about;4:sings;4:touches on;4:spots;4:addresses;4:highlights;4:looks;4:stops;4:states;4:leads;4:speaks of;4:tallies;4:describes;4:remarks;4:makes noticable;4:aims;4:marks;4:talks;4:explains;4:refers to
+PREDICTED_RESULTS:
+	1) lines:45
+	2) comments:50
+	3) tips:59
+	4) touches:60.0
+	5) positions:62
+	6) draws:65
+	7) notes:69
+	8) states:72
+	9) centers:74
+	10) questions:78
+
+___________________________________________________________________________________________
+SENTENCE:a state religion is a religious body or creed officially endorsed by the state .
+COMPLEX_WORD:endorsed
+GOLD_SUBSTITUTES:10;1:supported;2:approved;3:backed;3:recommended;3:accepted;3:adopted;3:sanctioned;4:advocated;4:okayed;4:recognized;4:noticed;4:allowed;4:promoted;4:baked;4:encouraged
+PREDICTED_RESULTS:
+	1) approved:20
+	2) supported:30
+	3) adopted:31
+	4) backed:34
+	5) sanctioned:36
+	6) sponsored:36
+	7) recognized:37
+	8) accepted:38
+	9) authorized:44
+	10) established:45
+
+___________________________________________________________________________________________
+SENTENCE:it initially was completely dark , but as voyager 2 approached the planet , a bright core developed and can be seen in most of the highest-resolution images .
+COMPLEX_WORD:initially
+GOLD_SUBSTITUTES:1;1:at first;2:originally;3:firstly;3:was first
+PREDICTED_RESULTS:
+	1) originally:36
+	2) previously:39
+	3) first:47
+	4) already:47.666666666666664
+	5) immediately:57.666666666666664
+	6) then:58.666666666666664
+	7) also:64.66666666666667
+	8) normally:71.66666666666667
+	9) actually:76.66666666666667
+	10) early:81
+
+___________________________________________________________________________________________
+SENTENCE:according to kojiki , the entrance to yomi lies in izumo province and was sealed off by izanagi-no-mikoto upon his flight from yomi , at which time he permanently blocked the entrance by placing a massive boulder at the base of the slope that leads to yomi . upon his return to ashihara-no-nakatsukuni , izanagi noted that yomi is a `` polluted land '' .
+COMPLEX_WORD:placing
+GOLD_SUBSTITUTES:33;1:putting;2:adding;2:laying;2:moving;2:leaving
+PREDICTED_RESULTS:
+	1) putting:28
+	2) moving:47
+	3) laying:50
+	4) using:50
+	5) setting:58
+	6) sitting:60
+	7) removing:63
+	8) creating:69
+	9) leaving:69
+	10) holding:71
+
+___________________________________________________________________________________________
+SENTENCE:its status as an official geological period was ratified in 2004 by the international union of geological sciences , making it the first new geological period declared in 120 years .
+COMPLEX_WORD:ratified
+GOLD_SUBSTITUTES:8;1:approved;2:confirmed;3:passed;4:accepted;4:changed;5:made true;5:declared;5:stopped;5:certified;5:agreed upon
+PREDICTED_RESULTS:
+	1) confirmed:32
+	2) adopted:35
+	3) accepted:39
+	4) agreed:41
+	5) approved:49
+	6) recognized:52
+	7) signed:52
+	8) declared:54.333333333333336
+	9) fixed:58
+	10) sanctioned:62
+
+___________________________________________________________________________________________
+SENTENCE:nearby there is the goobang national park , and peak hill which features an open cut mine that can be toured during holidays .
+COMPLEX_WORD:features
+GOLD_SUBSTITUTES:12;1:displays;2:offers;2:hallmarks;2:spotlights
+PREDICTED_RESULTS:
+	1) has:22
+	2) includes:34
+	3) contains:41
+	4) is:44
+	5) houses:51
+	6) involves:65
+	7) offers:65
+	8) holds:70
+	9) displays:72
+	10) hosts:72
+
+___________________________________________________________________________________________
+SENTENCE:good friday , also called holy friday , black friday , or great friday , is a holiday observed primarily by adherents to christianity commemorating the crucifixion of jesus and his death at calvary .
+COMPLEX_WORD:primarily
+GOLD_SUBSTITUTES:19;1:mostly;2:normally;3:predominantly
+PREDICTED_RESULTS:
+	1) mostly:17
+	2) mainly:25
+	3) specifically:42
+	4) only:43.666666666666664
+	5) largely:48
+	6) especially:55
+	7) solely:55.666666666666664
+	8) exclusively:56.666666666666664
+	9) particularly:58
+	10) strictly:59.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:as of , it lies at latitude 66 33 39 south of the equator .
+COMPLEX_WORD:lies
+GOLD_SUBSTITUTES:4;1:sits;2:is located;2:exists;3:rests;3:is found;4:resides;4:is positioned;4:stands;4:locates;4:stations;4:sets
+PREDICTED_RESULTS:
+	1) is:11
+	2) stands:23
+	3) sits:35
+	4) falls:36
+	5) lay:36.333333333333336
+	6) lays:39
+	7) comes:46
+	8) rests:48
+	9) appears:59
+	10) remains:59
+
+___________________________________________________________________________________________
+SENTENCE:during the first boer war , the city was besieged by republican forces in december 1880 and march 1881 .
+COMPLEX_WORD:besieged
+GOLD_SUBSTITUTES:9;1:attacked;2:surrounded;3:taken over;4:taken;5:invaded;5:overrun;5:trapped;6:placed under seige;6:controlled;6:over taken;6:encircled;6:took over;6:overwhelmed
+PREDICTED_RESULTS:
+	1) attacked:22
+	2) surrounded:47
+	3) trapped:51
+	4) threatened:52.0
+	5) occupied:53.0
+	6) captured:57.0
+	7) evacuated:60.0
+	8) invaded:62.0
+	9) bombed:64.0
+	10) stormed:67.0
+
+___________________________________________________________________________________________
+SENTENCE:one of the defining aspects of the nintendo gamecube is the rejuvenated relationship between nintendo and its licensees . unlike previous generations in which nintendo was seen by some as bullying its third-party game developers , nintendo openly sought game-development aid on the nintendo gamecube .
+COMPLEX_WORD:rejuvenated
+GOLD_SUBSTITUTES:11;1:renewed;2:restored;3:mended;3:revived;3:improved;3:fresh;4:energized;4:strengthened;4:restarted;4:helped bring back;4:redesigned;4:healed;4:reborn;4:renew;4:friendly
+PREDICTED_RESULTS:
+	1) new:39.666666666666664
+	2) changed:41.666666666666664
+	3) renewed:51.666666666666664
+	4) restored:52.666666666666664
+	5) improved:57.666666666666664
+	6) unique:59.666666666666664
+	7) altered:61.666666666666664
+	8) expanded:65.66666666666667
+	9) transformed:66.66666666666667
+	10) sustained:67.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:montgomery county of the u.s. state of maryland is situated just north of washington , d.c. and southwest of baltimore .
+COMPLEX_WORD:situated
+GOLD_SUBSTITUTES:9;1:located;2:placed;3:set;4:sitting
+PREDICTED_RESULTS:
+	1) located:11
+	2) placed:13
+	3) based:18
+	4) found:28
+	5) seated:29
+	6) established:37
+	7) stationed:41
+	8) constructed:44
+	9) parked:44
+	10) lodged:53
+
+___________________________________________________________________________________________
+SENTENCE:the birthday cake is traditionally highly decorated , and typically covered with lit candles when presented , the number of candles signifying the age of the celebrant .
+COMPLEX_WORD:traditionally
+GOLD_SUBSTITUTES:4;1:normally;2:always;2:commonly;3:historically
+PREDICTED_RESULTS:
+	1) usually:19
+	2) generally:34
+	3) normally:38
+	4) typically:38
+	5) often:40.0
+	6) commonly:55
+	7) historically:56
+	8) particularly:65.0
+	9) also:68.0
+	10) originally:70.0
+
+___________________________________________________________________________________________
+SENTENCE:in wales , four church of england dioceses were disestablished in 1920 , becoming separated from the church of england in the process and subsequently becoming the church in wales .
+COMPLEX_WORD:separated
+GOLD_SUBSTITUTES:14;1:divided;2:removed;3:apart;4:split;5:moved;5:disconnected;6:independent;6:seperate;6:divorced;6:distinct;6:moved apart;6:free;6:detatched;6:broken away;6:disjointed;6:set apart;6:distant;6:split up;6:detached;6:independant;6:severed
+PREDICTED_RESULTS:
+	1) divorced:32
+	2) split:38
+	3) removed:40
+	4) divided:49
+	5) isolated:50
+	6) apart:58.0
+	7) detached:60
+	8) severed:62
+	9) disconnected:65
+	10) united:69.0
+
+___________________________________________________________________________________________
+SENTENCE:the true cross is the name for physical remnants which , by a christian tradition , are believed to be from the cross upon which jesus was crucified .
+COMPLEX_WORD:remnants
+GOLD_SUBSTITUTES:8;1:remains;2:pieces;3:leftovers;4:pieces of wood;4:remainders;4:peices;4:artifacts;4:items;4:residual;4:left overs
+PREDICTED_RESULTS:
+	1) elements:35
+	2) items:42
+	3) evidence:45.0
+	4) parts:48
+	5) artifacts:57
+	6) objects:59.0
+	7) traces:61
+	8) fragments:62
+	9) ruins:63
+	10) things:63.0
+
+___________________________________________________________________________________________
+SENTENCE:seafloor spreading occurs at mid-ocean ridges , where new oceanic crust is formed through volcanic activity and then gradually moves away from the ridge .
+COMPLEX_WORD:gradually
+GOLD_SUBSTITUTES:18;1:increasingly;1:eventually;1:little by little;1:regularly;1:progressively
+PREDICTED_RESULTS:
+	1) slowly:24
+	2) eventually:26
+	3) then:39.0
+	4) suddenly:61.0
+	5) generally:63.0
+	6) finally:64.0
+	7) soon:65.0
+	8) quickly:67.0
+	9) subsequently:68.0
+	10) rapidly:69.0
+
+___________________________________________________________________________________________
+SENTENCE:it reached a peak position of number thirty-seven on the billboard hot modern rock tracks chart .
+COMPLEX_WORD:reached
+GOLD_SUBSTITUTES:1;1:hit;2:got to;3:came to;4:climbed to;5:received;5:extended;5:got up to;5:went to;5:achieved;5:acheived;5:entered
+PREDICTED_RESULTS:
+	1) made:39
+	2) got:41
+	3) achieved:48
+	4) held:49
+	5) hit:55.0
+	6) had:57
+	7) found:67
+	8) obtained:74
+	9) finished:75
+	10) brought:78
+
+___________________________________________________________________________________________
+SENTENCE:the shinto pantheon alone consists of an uncountable number of kami .
+COMPLEX_WORD:consists
+GOLD_SUBSTITUTES:4;1:is made;2:is made up;3:is made up of;3:comprises;4:composed;4:makes up;4:has a lot;4:exists;4:belong;4:is formed;4:endures;4:is made of;4:has most;4:is composed
+PREDICTED_RESULTS:
+	1) is:20
+	2) includes:40
+	3) exists:41
+	4) speaks:44.333333333333336
+	5) holds:48
+	6) makes:55
+	7) appears:60
+	8) composed:64.33333333333333
+	9) remains:68
+	10) involves:71
+
+___________________________________________________________________________________________
+SENTENCE:business development manager strategic alliances This individual will be responsible for coordinating , negotiating , launching , and managing Accuity 's partner relationships .
+COMPLEX_WORD:managing
+GOLD_SUBSTITUTES:18;1:handling;1:controlling;1:look after;1:take care of;2:directing;3:organising
+PREDICTED_RESULTS:
+	1) handling:33
+	2) operating:37
+	3) running:38
+	4) maintaining:44
+	5) coordinating:53
+	6) developing:54.0
+	7) planning:54
+	8) controlling:60
+	9) creating:60.0
+	10) serving:62
+
+___________________________________________________________________________________________
+SENTENCE:it is relatively simple to find lenses which will maintain reasonably good central resolution the central resolution , but thus far , I have not been able to achieve an edge resolution better than about 0.1 mm with `` off the shelf `` lenses .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:19;1:this
+PREDICTED_RESULTS:
+	1) so:13
+	2) therefore:32
+	3) hence:39
+	4) as:54.666666666666664
+	5) however:54.666666666666664
+	6) while:60.666666666666664
+	7) thereby:64
+	8) by:66.66666666666667
+	9) that:69.66666666666667
+	10) yet:72.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the calculation is based on the loan 's original principal , so Fellows who are not recent graduates , and thus have been making loan payments , are treated the same as new graduates .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:20;1:consequently;2:accordingly
+PREDICTED_RESULTS:
+	1) therefore:29
+	2) so:35
+	3) hence:47
+	4) instead:49.666666666666664
+	5) thereby:62
+	6) subsequently:63
+	7) while:64.66666666666667
+	8) that:73.66666666666667
+	9) simply:75.66666666666667
+	10) then:76
+
+___________________________________________________________________________________________
+SENTENCE:thus for example , ophthalmologists will need to know in a given population how many people of a particular age group and/or sex will suffer a retina detachment in the course of a year .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:0;1:consequently
+PREDICTED_RESULTS:
+	1) so:14
+	2) then:26
+	3) therefore:34
+	4) hence:40
+	5) and:43.0
+	6) but:54.0
+	7) now:62.0
+	8) because:63.0
+	9) while:67.0
+	10) since:72.0
+
+___________________________________________________________________________________________
+SENTENCE:although he 's pitched 200 innings for the first time since Mike had a girlfriend ( 200 innings being 6 more than any Met has pitched this season thus far ) , Pedro has , again , seemed annoyingly off-balance lately .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:28;1:this
+PREDICTED_RESULTS:
+	1) so:12
+	2) therefore:42
+	3) hence:47
+	4) as:49.0
+	5) since:56.0
+	6) this:57.0
+	7) thereby:62
+	8) that:64.0
+	9) however:65.0
+	10) while:65.0
+
+___________________________________________________________________________________________
+SENTENCE:grey 's reformist doctrines can thus be seen , not as an attempt to set out on the road to democracy , but as a means to strengthen the power of his own class , the aristocracy .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:5;1:accordingly;1:consequently
+PREDICTED_RESULTS:
+	1) therefore:25
+	2) then:34
+	3) so:41
+	4) hence:49
+	5) however:54.0
+	6) thereby:55
+	7) simply:60.0
+	8) also:61.0
+	9) likewise:78.0
+	10) instead:79.0
+
+___________________________________________________________________________________________
+SENTENCE:a clear imperative thus confronts American progressives -- that intricate ( and frequently fragile ) web of communities comprised of people of color , feminists , gays and lesbians , the poor and working class , as well as ethnic whites who value ethnicity , indeed all who have been systematically disenfrancised and dehumanized under the once ascendant `` traditional values `` of pre-Civil Rights America .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:3;1:consequently
+PREDICTED_RESULTS:
+	1) so:18
+	2) therefore:46
+	3) then:50
+	4) that:53.333333333333336
+	5) thereby:66
+	6) finally:73.33333333333333
+	7) now:73.33333333333333
+	8) hence:74
+	9) however:77.33333333333333
+	10) indeed:77.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:we struggle to think of any other minority group in society who would be so easily and conveniently stereotyped and are saddened that law abiding , genuine football supporters of both sexes , all ages and backgrounds who want to stand are thus thought of and portrayed as would be hooligans merely because they prefer to stand .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:42;1:consequently
+PREDICTED_RESULTS:
+	1) therefore:32
+	2) so:45
+	3) instead:53.0
+	4) hence:57
+	5) then:58
+	6) also:59.0
+	7) thereby:65
+	8) however:66.0
+	9) likewise:67.0
+	10) usually:73.0
+
+___________________________________________________________________________________________
+SENTENCE:the kind of control he exercises is thus likely to be limited to `` passive `` control such as inspection of produced goods and testing to insure that quality standards are being met .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:7;1:accordingly;1:consequently
+PREDICTED_RESULTS:
+	1) therefore:28
+	2) then:35
+	3) so:40
+	4) not:50.0
+	5) however:54.0
+	6) hence:55
+	7) thereby:61
+	8) instead:63.0
+	9) as:66.0
+	10) this:66.0
+
+___________________________________________________________________________________________
+SENTENCE:thus they can connect with `` who found them `` .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:0;1:in this way;2:in this manner;3:accordingly;3:consequently
+PREDICTED_RESULTS:
+	1) so:17
+	2) then:31
+	3) therefore:45
+	4) because:50.666666666666664
+	5) hence:55
+	6) but:59.666666666666664
+	7) and:65.66666666666667
+	8) as:69.66666666666667
+	9) while:71.66666666666667
+	10) that:73.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:the experiment also helps us in understanding the language of dreams , and thus begins the process of interpretation .
+COMPLEX_WORD:thus
+GOLD_SUBSTITUTES:13;1:there;2:consequently
+PREDICTED_RESULTS:
+	1) so:13
+	2) then:27
+	3) therefore:33
+	4) hence:41
+	5) thereby:47
+	6) this:55.666666666666664
+	7) finally:67.66666666666667
+	8) subsequently:68
+	9) while:76.66666666666667
+	10) yet:80.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:going to Court : civil Trial Procedure This pamphlet explains what happens when you go to court about civil cases involving negligence or damages .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:18;1:private;1:citizen;2:noncriminal;2:civic;3:ordinary private
+PREDICTED_RESULTS:
+	1) criminal:48.33333333333333
+	2) legal:54.33333333333333
+	3) human:59.33333333333333
+	4) public:67
+	5) general:68.33333333333333
+	6) new:75.33333333333333
+	7) fair:80.33333333333333
+	8) military:80.33333333333333
+	9) personal:81.33333333333333
+	10) private:86.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:with all due respect to our civil authorities and lawmakers , we are called to testify by word and action , to the essential truths of our faith .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:6;1:elected;2:civic
+PREDICTED_RESULTS:
+	1) public:36
+	2) legal:40.333333333333336
+	3) human:43.333333333333336
+	4) social:67.33333333333333
+	5) political:68.33333333333333
+	6) local:72.33333333333333
+	7) law:75.33333333333333
+	8) natural:75.33333333333333
+	9) citizen:76.33333333333333
+	10) constitutional:76.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:it is contrary to the spirit of civil law , and to the natural working of economic law .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:7;1:noncriminal;1:civic;2:ordinary private
+PREDICTED_RESULTS:
+	1) human:51.666666666666664
+	2) public:53
+	3) general:57.666666666666664
+	4) private:58.666666666666664
+	5) federal:60.666666666666664
+	6) the:63.666666666666664
+	7) criminal:64.66666666666667
+	8) natural:64.66666666666667
+	9) legal:69.66666666666667
+	10) military:74.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:yes , we occasionally get into some heated discussions here , and the language can get a bit colorful at times , but in general , the posters are relatively civil and well-behaved .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:30;1:polite;2:cordial;2:courteous;3:inoffensive
+PREDICTED_RESULTS:
+	1) polite:55.66666666666667
+	2) friendly:57.66666666666667
+	3) human:57.66666666666667
+	4) calm:64.66666666666667
+	5) quiet:76.66666666666667
+	6) kind:79.66666666666667
+	7) regular:80.66666666666667
+	8) smooth:86.66666666666667
+	9) peaceful:88.66666666666667
+	10) natural:89.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:Lionel , Singapore Lebanon has overcome all adversities in the past , ranging from civil wars to Israeli invasion .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:14;1:people\'s;2:domestic
+PREDICTED_RESULTS:
+	1) world:59.0
+	2) local:71.0
+	3) human:75.0
+	4) cold:81.0
+	5) social:81.0
+	6) many:82.0
+	7) family:90.0
+	8) national:91.0
+	9) modern:94.0
+	10) new:95.0
+
+___________________________________________________________________________________________
+SENTENCE:this means combating corruption , building strong and accountable public sectors which have the necessary staff to deliver vital services , and ensuring that parliaments , civil society , and the media can monitor public spending and act as watchdogs against corruption .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:26;1:polite;2:general;3:nongovernmental;3:civic
+PREDICTED_RESULTS:
+	1) public:41
+	2) human:49.0
+	3) legal:54.0
+	4) the:59.0
+	5) law:63.0
+	6) social:70.0
+	7) private:74.0
+	8) general:80.0
+	9) open:81.0
+	10) political:83.0
+
+___________________________________________________________________________________________
+SENTENCE:truly classy people find a way to be polite , civil and courteous .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:10;1:friendly;2:thoughtful;2:well mannered;3:benevolent;3:cordial
+PREDICTED_RESULTS:
+	1) human:47.66666666666667
+	2) formal:60.66666666666667
+	3) legal:67.66666666666667
+	4) polite:69.66666666666667
+	5) proper:70.66666666666667
+	6) respectful:72.66666666666667
+	7) friendly:74.66666666666667
+	8) quiet:78.66666666666667
+	9) personal:84.66666666666667
+	10) cool:89.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:not just another period piece on Germany 's disturbing past , this film should have deep resonance for today 's movie fans who are concerned about civil and human rights .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:26;1:personal;1:citizen;2:citizens\';2:individual;2:civic;3:community
+PREDICTED_RESULTS:
+	1) legal:41.666666666666664
+	2) human:43.666666666666664
+	3) social:51.666666666666664
+	4) political:60.666666666666664
+	5) public:68
+	6) freedom:71.66666666666667
+	7) religious:73.66666666666667
+	8) sexual:77.66666666666667
+	9) rights:78.66666666666667
+	10) personal:82.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:spontaneous gestures are a pie in the face of civil society .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:9;1:polite;1:friendly;2:well mannered;2:cultured
+PREDICTED_RESULTS:
+	1) human:36.666666666666664
+	2) public:42
+	3) social:50.666666666666664
+	4) modern:61.666666666666664
+	5) general:62.666666666666664
+	6) the:74.66666666666667
+	7) polite:76.66666666666667
+	8) formal:80.66666666666667
+	9) political:85.66666666666667
+	10) legal:88.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:since civil discourse in our country is increasingly lacking , and the word insanity in this context implies a lack of such civility , how can that be a good thing for anybody or the mark of a great president ? Eh , one episode , wha-evuh .
+COMPLEX_WORD:civil
+GOLD_SUBSTITUTES:1;1:courteous;1:polite;2:cordial;2:social
+PREDICTED_RESULTS:
+	1) public:36
+	2) political:43.0
+	3) social:56.0
+	4) legal:58.0
+	5) human:68.0
+	6) free:73.0
+	7) government:73.0
+	8) democratic:77.0
+	9) liberal:79.0
+	10) military:81.0
+
+___________________________________________________________________________________________
+SENTENCE:the different variables defining the optimal state can therefore be seen as intrinsic needs .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:8;1:as a result;2:accordingly;3:consequently
+PREDICTED_RESULTS:
+	1) thus:46
+	2) also:49.0
+	3) so:54
+	4) even:58.0
+	5) however:62.0
+	6) actually:66.0
+	7) hence:67
+	8) obviously:67.0
+	9) often:72.0
+	10) probably:79.0
+
+___________________________________________________________________________________________
+SENTENCE:this is not a new phenomenon , but one inherent to capitalism itself and recognised by Karl Marx who pointed out that `` During its time of circulation capital does not perform the functions of productive capital and therefore produces neither commodities nor surplus-value '' 16 and , Circulation proceeds in space and time .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:38;1:consequently
+PREDICTED_RESULTS:
+	1) so:19
+	2) thus:33
+	3) hence:46
+	4) also:52.0
+	5) instead:70.0
+	6) obviously:71.0
+	7) actually:72.0
+	8) ultimately:77.0
+	9) accordingly:80
+	10) however:82.0
+
+___________________________________________________________________________________________
+SENTENCE:the terms therefore seek to preclude Plaxo from complying with a request by an individual for alteration or deletion of their personal data .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:2;1:accordingly;1:consequently
+PREDICTED_RESULTS:
+	1) obviously:45.333333333333336
+	2) thus:45.333333333333336
+	3) also:50.333333333333336
+	4) actually:60.333333333333336
+	5) however:60.333333333333336
+	6) which:60.333333333333336
+	7) clearly:68.33333333333333
+	8) apparently:69.33333333333333
+	9) hence:75.33333333333333
+	10) so:75.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:psychologists are not doctors and therefore they can not prescribe medication .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:5;1:consequently
+PREDICTED_RESULTS:
+	1) so:13
+	2) thus:37
+	3) hence:46
+	4) because:46.666666666666664
+	5) also:53.666666666666664
+	6) even:69.66666666666667
+	7) obviously:76.66666666666667
+	8) although:77.66666666666667
+	9) since:78.66666666666667
+	10) if:81.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:labour market deregulation is therefore instrumental in boosting jobs and reducing unemployment .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:4;1:accordingly;2:consequently
+PREDICTED_RESULTS:
+	1) thus:44
+	2) so:51
+	3) also:53.333333333333336
+	4) now:57.333333333333336
+	5) obviously:62.333333333333336
+	6) often:65.33333333333333
+	7) actually:70.33333333333333
+	8) hence:75
+	9) especially:75.33333333333333
+	10) however:81.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:you should therefore report the break-in to the police .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:2;1:accordingly;2:consequently
+PREDICTED_RESULTS:
+	1) also:47.666666666666664
+	2) so:55.666666666666664
+	3) obviously:56.666666666666664
+	4) not:60.666666666666664
+	5) actually:61.666666666666664
+	6) now:69.66666666666667
+	7) immediately:79.66666666666667
+	8) however:80.66666666666667
+	9) always:81.66666666666667
+	10) even:81.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:we therefore oppose the government 's proposals .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:1;1:accordingly;2:consequently
+PREDICTED_RESULTS:
+	1) must:56.666666666666664
+	2) also:59.666666666666664
+	3) now:61.666666666666664
+	4) obviously:67.66666666666667
+	5) however:69.66666666666667
+	6) nevertheless:75.66666666666667
+	7) shall:79.66666666666667
+	8) actually:81.66666666666667
+	9) generally:81.66666666666667
+	10) only:82.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:this setting exists to prevent accidental 'panning ' on mouse downs that are intended for other actions ( and therefore , prevent unintended changing of the scaling into manual mode ) .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:19;1:accordingly;2:consequently
+PREDICTED_RESULTS:
+	1) thus:31
+	2) hence:40
+	3) so:40
+	4) also:53.333333333333336
+	5) indeed:61.333333333333336
+	6) however:63.333333333333336
+	7) obviously:70.33333333333333
+	8) even:72.33333333333333
+	9) moreover:74.33333333333333
+	10) furthermore:75
+
+___________________________________________________________________________________________
+SENTENCE:you will therefore permit me to repeat , emphatically , that Marley was as dead as a door-nail .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:2;1:accordingly;2:consequently
+PREDICTED_RESULTS:
+	1) not:42.333333333333336
+	2) also:50.333333333333336
+	3) however:54.333333333333336
+	4) thus:54.333333333333336
+	5) now:55.333333333333336
+	6) hence:56
+	7) nevertheless:61.333333333333336
+	8) so:66.33333333333333
+	9) only:78.33333333333333
+	10) but:80.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:they should take note of Darius ' admonitions . -- Well I think this is ok because they 're part of your race and therefore part of your extended family .
+COMPLEX_WORD:therefore
+GOLD_SUBSTITUTES:24;1:accordingly;2:consequently
+PREDICTED_RESULTS:
+	1) so:25.666666666666664
+	2) thus:35.666666666666664
+	3) also:38.666666666666664
+	4) hence:41
+	5) ultimately:49.666666666666664
+	6) obviously:62.666666666666664
+	7) furthermore:67.66666666666667
+	8) even:68.66666666666667
+	9) actually:70.66666666666667
+	10) moreover:71.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:a subsidiary was floated in the UK , Tata Tea ( GB ) Ltd. , which acquired the controlling interest in the Tetley Group .
+COMPLEX_WORD:acquired
+GOLD_SUBSTITUTES:16;1:bought;2:obtained;3:procured
+PREDICTED_RESULTS:
+	1) bought:31
+	2) received:40
+	3) inherited:43
+	4) owned:44
+	5) had:47
+	6) gained:49
+	7) obtained:51
+	8) purchased:54
+	9) assumed:63
+	10) earned:64
+
+___________________________________________________________________________________________
+SENTENCE:how many times have I caught up with those people several years later , to discover that they have acquired a lifestyle , a car and a mortgage to match their salary , and that their initial ideals have faded to the haziest of memories , which they now dismiss as a post-adolescent fantasy ?
+COMPLEX_WORD:acquired
+GOLD_SUBSTITUTES:19;1:obtained;1:achieved;2:procured
+PREDICTED_RESULTS:
+	1) gained:35
+	2) bought:36
+	3) earned:37
+	4) purchased:38
+	5) received:39
+	6) developed:41
+	7) discovered:49
+	8) obtained:50
+	9) inherited:59.333333333333336
+	10) secured:61
+
+___________________________________________________________________________________________
+SENTENCE:thank you for having Osiris here . We 've been involved in mesenchymal stem cell , adult stem cell research for about 11 years now . Our technology came out of Arnie Kaplan 's lab and was acquired from Case Western at that time , and we 've been solely focused in that area since on several applications .
+COMPLEX_WORD:acquired
+GOLD_SUBSTITUTES:37;1:bring in;1:bought;2:obtained;3:procured
+PREDICTED_RESULTS:
+	1) bought:24
+	2) transferred:35
+	3) developed:40
+	4) purchased:40
+	5) owned:45
+	6) inherited:58.666666666666664
+	7) sold:62
+	8) established:71
+	9) obtained:71
+	10) received:73
+
+___________________________________________________________________________________________
+SENTENCE:more than 200 of the most significant works acquired by the Corning Museum of Glass during the 1990s , to augment its holdings of 35,000 objects , are featured here .
+COMPLEX_WORD:acquired
+GOLD_SUBSTITUTES:8;1:bought;2:obtained;3:procured
+PREDICTED_RESULTS:
+	1) bought:29
+	2) owned:33
+	3) purchased:39
+	4) collected:41
+	5) received:44
+	6) obtained:49
+	7) gathered:59
+	8) offered:64
+	9) transferred:69
+	10) captured:72
+
+___________________________________________________________________________________________
+SENTENCE:to understand why this should have been so , we need to look more closely at the nature of the style and its origins .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:14;1:carefully;2:in detail;2:intently;3:attentively;4:scrupulously
+PREDICTED_RESULTS:
+	1) carefully:10
+	2) deeply:23
+	3) strongly:32
+	4) precisely:40
+	5) strictly:41
+	6) thoroughly:47
+	7) directly:48.0
+	8) seriously:51
+	9) fully:53
+	10) clearly:58.0
+
+___________________________________________________________________________________________
+SENTENCE:some people have guessed that this radiation is closely related to a period of intense cold and a high level of ice cover occurring around 600 mya ; perhaps environmental stresses wiped out competitors and created opportunities for a ( relatively ) clever animal to succeed and proliferate .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:8;1:nearly;2:strongly;2:directly;3:intimately
+PREDICTED_RESULTS:
+	1) directly:46.333333333333336
+	2) strongly:47
+	3) deeply:48
+	4) precisely:55
+	5) tightly:60
+	6) intimately:61
+	7) likely:64.33333333333333
+	8) clearly:71.33333333333333
+	9) carefully:72
+	10) very:73.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:they are working closely with Natural Tunnel State Park , where the staff , eager to have additional housing nearby , have assured the Bakers that they will be booked on a regular basis since the demand for housing outweighs supply .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:3;1:together;2:in unison;3:intimately;3:in concert;4:collectively
+PREDICTED_RESULTS:
+	1) carefully:25
+	2) together:26.666666666666664
+	3) directly:36.666666666666664
+	4) along:43.666666666666664
+	5) strongly:44
+	6) heavily:45.666666666666664
+	7) deeply:51
+	8) strictly:53
+	9) intimately:56
+	10) regularly:57.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:the Department is also working closely with hm Customs and Excise who are in the lead on developing the national lorry road user charging scheme .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:5;1:together;2:in unison;3:intimately;3:in concert;3:collectively
+PREDICTED_RESULTS:
+	1) together:28.666666666666664
+	2) well:33.666666666666664
+	3) strongly:36
+	4) carefully:43
+	5) directly:46.666666666666664
+	6) heavily:50.666666666666664
+	7) deeply:51
+	8) tightly:52
+	9) along:59.666666666666664
+	10) regularly:64.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:retail : in the U.S. , analysts will be looking closely at third-quarter results .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:10;1:carefully;2:attentively;2:in detail;2:intently
+PREDICTED_RESULTS:
+	1) carefully:37
+	2) directly:50.333333333333336
+	3) hard:50.333333333333336
+	4) strongly:51
+	5) heavily:51.333333333333336
+	6) deeply:53
+	7) strictly:63
+	8) particularly:66.33333333333333
+	9) quickly:67.33333333333333
+	10) slowly:68.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:their academic careers are closely intertwined with social and political developments such as secularisation and antisemitism .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:4;1:strongly;2:neatly;3:narrowly;4:intimately
+PREDICTED_RESULTS:
+	1) deeply:33
+	2) strongly:37
+	3) carefully:40
+	4) intimately:50
+	5) directly:52.0
+	6) very:53.0
+	7) heavily:54.0
+	8) often:54.0
+	9) tightly:56
+	10) highly:67.0
+
+___________________________________________________________________________________________
+SENTENCE:`` the baby has developed very normally and has been followed closely .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:11;1:carefully;2:attentively;2:in detail;2:intently
+PREDICTED_RESULTS:
+	1) carefully:11
+	2) precisely:38
+	3) strictly:38
+	4) strongly:50
+	5) deeply:51
+	6) exactly:51
+	7) well:59.666666666666664
+	8) tightly:63
+	9) thoroughly:66
+	10) personally:66.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:to prevent asthma episodes you will have to work closely with your doctor to : develop a medicine plan that keeps you from getting symptoms .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:9;1:carefully;1:together;2:in concert;2:alongside;2:in unison;2:in tandem
+PREDICTED_RESULTS:
+	1) carefully:17
+	2) together:25.0
+	3) directly:41.0
+	4) deeply:52
+	5) strongly:52
+	6) heavily:53.0
+	7) along:54.0
+	8) strictly:58
+	9) regularly:61.0
+	10) tightly:65
+
+___________________________________________________________________________________________
+SENTENCE:problems are flagged quickly and , working closely with your staff , we propose solutions .
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:7;1:together;2:carefully;2:in unison;3:intimately;3:in concert;3:in tandem
+PREDICTED_RESULTS:
+	1) carefully:17
+	2) together:24.0
+	3) directly:45.0
+	4) strongly:50
+	5) tightly:50
+	6) heavily:51.0
+	7) along:53.0
+	8) strictly:57
+	9) deeply:66
+	10) intimately:67
+
+___________________________________________________________________________________________
+SENTENCE:what women want on A first date ( updated Thursday , Dec 5 , 2002 , 02:06:55 PM to reflect the 100 most recent valid responses. ) assuming you are a woman , which most closely matches your idea of a great first date ?
+COMPLEX_WORD:closely
+GOLD_SUBSTITUTES:35;1:nearly
+PREDICTED_RESULTS:
+	1) exactly:31
+	2) precisely:42
+	3) strongly:44
+	4) often:50.333333333333336
+	5) accurately:53
+	6) carefully:59
+	7) directly:64.33333333333333
+	8) clearly:65.33333333333333
+	9) tightly:72
+	10) nearly:73
+
+___________________________________________________________________________________________
+SENTENCE:`` what Meeks did not mention is that GUEA bought the building from her church , Victory Apostolic Faith Church in Chicago , where she and her father are prominent members , according to Cook County property records and the church 's Web site .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:29;1:leading;1:important;1:well known
+PREDICTED_RESULTS:
+	1) important:35
+	2) distinguished:44
+	3) leading:47
+	4) famous:51
+	5) influential:54
+	6) key:54
+	7) major:60
+	8) senior:60
+	9) significant:60
+	10) popular:70.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:among the recipients were prominent journalists and producers , scions of the alternative press , and a smattering of current and former intelligence analysts who often serve as sources in news analyses and articles .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:4;1:leading;1:important;1:well known;2:high profile;3:eminent
+PREDICTED_RESULTS:
+	1) famous:26
+	2) distinguished:35
+	3) leading:44
+	4) influential:52
+	5) important:66
+	6) popular:67.0
+	7) eminent:68
+	8) major:68
+	9) wealthy:72.0
+	10) renowned:73
+
+___________________________________________________________________________________________
+SENTENCE:update Posted at 10:00 AM -- Permalink Back in this post , I reported that the Tropicana Hotel in Las Vegas had stopped accepting reservations for after April 15 and that a prominent demolition company had told a reporter that it was studying how to blow up the place .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:32;1:leading;1:well known;2:renowned;2:high profile
+PREDICTED_RESULTS:
+	1) famous:34
+	2) major:43
+	3) popular:47.666666666666664
+	4) certain:49.666666666666664
+	5) leading:51
+	6) large:52.666666666666664
+	7) known:61.666666666666664
+	8) distinguished:64
+	9) local:65.66666666666667
+	10) successful:66.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:`` evidence is easily found of multipolarity and China 's prominent role in promoting it .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:10;1:leading;1:important;2:significant;3:foremost;4:conspicuous
+PREDICTED_RESULTS:
+	1) major:28
+	2) leading:44
+	3) significant:44
+	4) large:48.333333333333336
+	5) important:51
+	6) distinguished:53
+	7) strong:62.333333333333336
+	8) substantial:66
+	9) influential:67
+	10) central:71.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:reeling from the effects of World War II , prominent local businessmen led by the visionary Archie Jewell , purchased the building in 1943 and renovated it to become `` The International House `` , a newly-created non-profit trade association dedicated to world peace , trade and understanding .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:9;1:leading;1:well known;1:widely known;1:high profile;2:renowned
+PREDICTED_RESULTS:
+	1) famous:40
+	2) leading:47
+	3) influential:51
+	4) several:58.333333333333336
+	5) powerful:63.333333333333336
+	6) wealthy:66.33333333333333
+	7) popular:69.33333333333333
+	8) distinguished:73
+	9) certain:75.33333333333333
+	10) strong:75.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:there were five references to Crawford : three dealing with his present claims that he lied on behalf of the tobacco companies , one dealing with a property dispute , and another , which identified him as a prominent criminal lawyer , who had been involved in 33 capital cases .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:38;1:leading;1:well known;1:famous;2:widely known;3:renowned
+PREDICTED_RESULTS:
+	1) famous:28
+	2) distinguished:42
+	3) leading:52
+	4) major:64
+	5) powerful:65.0
+	6) renowned:67
+	7) respected:68.0
+	8) former:69.0
+	9) successful:70.0
+	10) senior:72
+
+___________________________________________________________________________________________
+SENTENCE:expansion of markets , improvement of profit potential , and reduction of cost factors join the enhancement of competitive position as prominent forces moving organizations toward globalization .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:21;1:major;1:important;2:foremost;3:conspicuous
+PREDICTED_RESULTS:
+	1) major:24
+	2) leading:37
+	3) significant:40
+	4) influential:46
+	5) key:50
+	6) important:56
+	7) powerful:58.333333333333336
+	8) strong:60.333333333333336
+	9) dominant:63
+	10) popular:64.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:i have argued in my previous article for PDF that `` [ f ] or Armstrong Williams-like bloggers actually paid by campaigns or other political committees to promote or attack a candidate for federal office , prominent and on-the-spot disclosure should be mandated . '' A disclosure on a campaign 's website in a quarterly report after the election deprives voters of valuable information about the possible motivations for an analysis or commentary appearing on a website .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:36;1:visible;1:obvious;2:conspicuous
+PREDICTED_RESULTS:
+	1) significant:35
+	2) large:50.333333333333336
+	3) famous:54
+	4) visible:54
+	5) substantial:56
+	6) important:60
+	7) distinguished:64
+	8) conspicuous:65
+	9) powerful:67.33333333333333
+	10) common:71.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:this pattern of bad journalism is a prominent feature of every pro-hoax text and video .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:7;1:obvious;1:noticeable;2:salient;2:conspicuous
+PREDICTED_RESULTS:
+	1) major:30
+	2) common:32.666666666666664
+	3) significant:49
+	4) distinguished:61
+	5) large:62.666666666666664
+	6) conspicuous:65
+	7) strong:66.66666666666667
+	8) famous:67
+	9) popular:70.66666666666667
+	10) dominant:72
+
+___________________________________________________________________________________________
+SENTENCE:apple vs. Microsoft My AltaVista survey results revealed that `` Gates Hate `` is more prominent among Mac fans than with other groups -- providing a rationale for starting with Apple in our examination of the various conflicts listed above .
+COMPLEX_WORD:prominent
+GOLD_SUBSTITUTES:15;1:obvious;1:noticeable;2:pronounced;2:conspicuous;2:prevalent
+PREDICTED_RESULTS:
+	1) famous:28
+	2) popular:31.0
+	3) common:35.0
+	4) distinguished:53
+	5) significant:54
+	6) influential:59
+	7) numerous:64.0
+	8) frequent:68.0
+	9) important:72
+	10) known:74.0
+
+___________________________________________________________________________________________
+SENTENCE:posted by : Robrob at June 23 , 2005 02:04 AM Where will the greed of corporations intent on rendering skilled American workers obsolete end ?
+COMPLEX_WORD:rendering
+GOLD_SUBSTITUTES:19;1:leaving;2:converting
+PREDICTED_RESULTS:
+	1) making:10
+	2) turning:26
+	3) creating:28
+	4) providing:38
+	5) producing:45
+	6) giving:46
+	7) leaving:47
+	8) forcing:55
+	9) drawing:58.0
+	10) causing:64
+
+___________________________________________________________________________________________
+SENTENCE:in particular , provision of an alternative route for cyclists should never be regarded as an excuse for rendering the original road or junction unsuitable for cyclists .
+COMPLEX_WORD:rendering
+GOLD_SUBSTITUTES:18;1:leaving;2:portraying
+PREDICTED_RESULTS:
+	1) making:26
+	2) leaving:30
+	3) turning:38
+	4) providing:43
+	5) creating:51
+	6) affecting:51.666666666666664
+	7) finding:52.666666666666664
+	8) considering:60
+	9) performing:61
+	10) developing:62.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:`` this renders necessary a brief review of the position occupied by the Administration on this important and vital question .
+COMPLEX_WORD:renders
+GOLD_SUBSTITUTES:2;1:cause to be;1:render
+PREDICTED_RESULTS:
+	1) makes:7
+	2) gives:40.666666666666664
+	3) is:43.666666666666664
+	4) leaves:48.666666666666664
+	5) represents:55
+	6) becomes:55.666666666666664
+	7) provides:63.666666666666664
+	8) constitutes:74.66666666666667
+	9) finds:74.66666666666667
+	10) seems:77.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:Spaghettini with mullet roe and grated vegetables , and penne with sundried tomatoes and basil were both full of flavour and pleasantly light , which was lucky as I was almost defeated by an exceptionally tender and tasty lamb shank to follow .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:35;1:soft
+PREDICTED_RESULTS:
+	1) soft:35.0
+	2) delicious:46.0
+	3) delicate:47.0
+	4) sweet:47.0
+	5) fresh:59.0
+	6) tough:59.0
+	7) sensitive:63.0
+	8) gentle:64.0
+	9) juicy:69.0
+	10) mature:79.0
+
+___________________________________________________________________________________________
+SENTENCE:women usually notice little change in their breasts , but if you are a man , your breasts may become slightly larger and may be tender .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:25;1:sore;2:sensitive;3:painful
+PREDICTED_RESULTS:
+	1) sensitive:31.666666666666664
+	2) soft:39.666666666666664
+	3) gentle:55.666666666666664
+	4) painful:55.666666666666664
+	5) vulnerable:56.666666666666664
+	6) delicate:58.666666666666664
+	7) intimate:63.666666666666664
+	8) sore:71.66666666666667
+	9) harder:73.66666666666667
+	10) warm:74.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:`` i can be very , very strong , but on the other hand , I have very tender sentiments .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:18;1:kind;2:gentle;3:sympathetic
+PREDICTED_RESULTS:
+	1) soft:52.333333333333336
+	2) romantic:53.333333333333336
+	3) mature:58.333333333333336
+	4) delicate:60.333333333333336
+	5) sensitive:63.333333333333336
+	6) gentle:69.33333333333333
+	7) serious:72.33333333333333
+	8) vulnerable:77.33333333333333
+	9) fragile:81.33333333333333
+	10) compassionate:83.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:rabbits often feed on young , tender perennial growth as it emerges in spring , or on young transplants .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:6;1:soft
+PREDICTED_RESULTS:
+	1) soft:35.0
+	2) fresh:37.0
+	3) sensitive:40.0
+	4) delicate:41.0
+	5) tough:45.0
+	6) mature:49.0
+	7) young:54.0
+	8) juicy:60.0
+	9) healthy:63.0
+	10) vulnerable:64.0
+
+___________________________________________________________________________________________
+SENTENCE:the grilled octopus was very tender .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:5;1:soft
+PREDICTED_RESULTS:
+	1) good:49.0
+	2) delicious:57.0
+	3) special:69.0
+	4) young:70.0
+	5) sweet:75.0
+	6) delicate:78.0
+	7) fresh:78.0
+	8) spicy:83.0
+	9) pretty:84.0
+	10) hot:87.0
+
+___________________________________________________________________________________________
+SENTENCE:Cook the rice , covered , over boiling water for about 30 minutes , or until the grains are tender .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:19;1:soft
+PREDICTED_RESULTS:
+	1) soft:37.333333333333336
+	2) mature:41.333333333333336
+	3) firm:45.333333333333336
+	4) fresh:47.333333333333336
+	5) tough:51.333333333333336
+	6) delicate:52.333333333333336
+	7) raw:57.333333333333336
+	8) sensitive:58.333333333333336
+	9) flesh:74.33333333333333
+	10) fragile:77.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:they feed at that period on the opening buds of maples , and others that are equally tender and juicy .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:17;1:soft
+PREDICTED_RESULTS:
+	1) soft:34.666666666666664
+	2) sweet:43.666666666666664
+	3) tough:51.666666666666664
+	4) delicate:53.666666666666664
+	5) fresh:55.666666666666664
+	6) young:57.666666666666664
+	7) juicy:59.666666666666664
+	8) sensitive:67.66666666666667
+	9) delicious:69.66666666666667
+	10) gentle:71.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:Anne Bradstreet 's poetry is so tender and poignant , Cotton Mather 's preaching is both ornery and passionate , Richard Baxter 's Reformed Pastor is one of the classics , and Jonathan Edwards , is , well , Jonathan Edwards ( if you consider him a Puritan , not everyone does. ) Oh , by the way , great article about Puritans here .
+COMPLEX_WORD:tender
+GOLD_SUBSTITUTES:6;1:sensitive;1:gentle
+PREDICTED_RESULTS:
+	1) gentle:38.333333333333336
+	2) sweet:38.333333333333336
+	3) soft:46.333333333333336
+	4) sensitive:58.333333333333336
+	5) beautiful:59.333333333333336
+	6) delicate:59.333333333333336
+	7) precious:64.33333333333333
+	8) loving:71.33333333333333
+	9) lovely:74.33333333333333
+	10) romantic:84.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:China , India , Latin America and the rest of Asia will help grow worldwide demand for electric power by 59 percent over the next two decades . '' The hydrogen economy is based on the idea that fuel cells that run on hydrogen have the potential to replace current energy systems in all forms , from vehicle propulsion to stationary power generation to mobile phone batteries .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:14;1:global;2:international
+PREDICTED_RESULTS:
+	1) international:36
+	2) global:37
+	3) the:55.333333333333336
+	4) national:59.333333333333336
+	5) universal:72
+	6) our:76.33333333333333
+	7) total:76.33333333333333
+	8) its:79.33333333333333
+	9) in:82.33333333333333
+	10) us:82.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:this has been , at times , merely an effort to gain greater public renown for their group or cause , but more troubling have been the groups seeking to push forward al-Qaida 's agenda of worldwide terror .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:36;1:global;2:international
+PREDICTED_RESULTS:
+	1) global:24
+	2) international:28
+	3) national:41.666666666666664
+	4) universal:44
+	5) mass:44.666666666666664
+	6) total:55.666666666666664
+	7) nationwide:56.666666666666664
+	8) massive:58.666666666666664
+	9) spreading:62.666666666666664
+	10) lifetime:63.666666666666664
+
+___________________________________________________________________________________________
+SENTENCE:this is where the information revolution is happening -- and our share of these voices is smaller and smaller -- so America must find way to reach and engage a wider , younger , more diverse worldwide audience .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:36;1:global;2:international
+PREDICTED_RESULTS:
+	1) international:24
+	2) global:31
+	3) local:55.333333333333336
+	4) today:57.333333333333336
+	5) media:59.333333333333336
+	6) online:59.333333333333336
+	7) lifetime:60.333333333333336
+	8) overseas:64.33333333333333
+	9) national:65.33333333333333
+	10) european:66.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:that same thing could happen if we had a Manhattan type project focusing on renewables , potential worldwide markets , if we are the leader , and we have every reason to be the leader because we have the biggest problem .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:17;1:global;2:international
+PREDICTED_RESULTS:
+	1) international:40.666666666666664
+	2) global:48.666666666666664
+	3) for:49.666666666666664
+	4) major:55.666666666666664
+	5) universal:65.66666666666667
+	6) national:68.66666666666667
+	7) overseas:69.66666666666667
+	8) regional:69.66666666666667
+	9) european:71.66666666666667
+	10) nationwide:74.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:at the time of writing , the anti-semitic policies of the Soviet Union are also a subject of worldwide protest .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:18;1:global;2:international;2:universal
+PREDICTED_RESULTS:
+	1) international:38.666666666666664
+	2) global:42.666666666666664
+	3) national:58.666666666666664
+	4) the:59.666666666666664
+	5) growing:62.666666666666664
+	6) wide:62.666666666666664
+	7) american:63.666666666666664
+	8) overseas:63.666666666666664
+	9) ongoing:65.66666666666667
+	10) major:68.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:he suggested building an experimental hypertext ' web ' for the worldwide community of physicists who used CERN and its publications .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:11;1:global;2:international
+PREDICTED_RESULTS:
+	1) international:43.333333333333336
+	2) global:45.333333333333336
+	3) online:53.333333333333336
+	4) wide:54.333333333333336
+	5) large:60.333333333333336
+	6) entire:61.333333333333336
+	7) growing:66.33333333333333
+	8) vast:73.33333333333333
+	9) nationwide:74.33333333333333
+	10) massive:75.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:furthermore , non-residents can apply to be treated like a resident if his/her income from German sources is either at least 90 percent of his/her worldwide income or his/her non-German source income is less than DM12,000 ( 24,000 for married couples ) .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:25;1:total;2:global;3:international
+PREDICTED_RESULTS:
+	1) international:29
+	2) global:31
+	3) european:58.333333333333336
+	4) overseas:58.333333333333336
+	5) total:58.333333333333336
+	6) us:61.333333333333336
+	7) europe:64.33333333333333
+	8) german:65.33333333333333
+	9) nationwide:66.33333333333333
+	10) own:67.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:after adding the separate partnerships of JLW Ireland and JLW Scotland , the combined total of our European and North American businesses represented approximately 75 % of worldwide revenue in 1998 , up from approximately 63 % in 1997 .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:27;1:global;2:international
+PREDICTED_RESULTS:
+	1) global:33
+	2) international:38
+	3) us:52.666666666666664
+	4) total:54.666666666666664
+	5) the:62.666666666666664
+	6) lifetime:64.66666666666667
+	7) its:71.66666666666667
+	8) our:71.66666666666667
+	9) online:75.66666666666667
+	10) overseas:79.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:OSIS also provides its users with direct , yet protected , access to the Internet and its broad range of worldwide open source information resources .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:20;1:global;2:international
+PREDICTED_RESULTS:
+	1) international:40.333333333333336
+	2) global:42.333333333333336
+	3) online:51.333333333333336
+	4) its:58.333333333333336
+	5) universal:66.33333333333333
+	6) major:68.33333333333333
+	7) nationwide:73.33333333333333
+	8) popular:75.33333333333333
+	9) wide:75.33333333333333
+	10) local:76.33333333333333
+
+___________________________________________________________________________________________
+SENTENCE:like Maypoles , wreaths too , as she points out , figure in May Day as well as Summer solstice celebrations . http : //www.schooloftheseasons.com/signssummer.html [ Link updated 5/20/02 ] [ Added 26 May 2000 ] : this fun page collects worldwide insights from people who write to Waverly and comment on how summer begins for them .
+COMPLEX_WORD:worldwide
+GOLD_SUBSTITUTES:41;1:global;2:international
+PREDICTED_RESULTS:
+	1) the:59.666666666666664
+	2) daily:68.66666666666667
+	3) life:69.66666666666667
+	4) online:71.66666666666667
+	5) international:74.66666666666667
+	6) unique:74.66666666666667
+	7) global:75.66666666666667
+	8) free:84.66666666666667
+	9) everywhere:85.66666666666667
+	10) wide:86.66666666666667
+
+___________________________________________________________________________________________
+SENTENCE:these functions also use scheduling priority to decide which thread gets to execute when there is contention .
+COMPLEX_WORD:functions
+GOLD_SUBSTITUTES:1;1:activities;1:tasks;2:operations;2:sequences;3:subroutines
+PREDICTED_RESULTS:
+	1) programs:42
+	2) operations:48
+	3) services:50
+	4) processes:51
+	5) tasks:52
+	6) works:52
+	7) features:57
+	8) systems:60.333333333333336
+	9) problems:64
+	10) applications:68
+
+___________________________________________________________________________________________
+SENTENCE:functions of the Presidency One way of bringing focus to the presidency is to determine what the functions of the position should be .
+COMPLEX_WORD:functions
+GOLD_SUBSTITUTES:0;1:jobs;2:roles
+PREDICTED_RESULTS:
+	1) duties:29
+	2) powers:37
+	3) activities:42
+	4) operations:45
+	5) responsibilities:45
+	6) actions:59
+	7) offices:61
+	8) services:62
+	9) positions:64
+	10) roles:66
+
